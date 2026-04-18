@@ -1,0 +1,43 @@
+{
+  "id": "test1",
+  "title": "Practice Test 1",
+  "part5": [
+    {
+      "id": 1,
+      "question": "The manager ___ to the office every day.",
+      "options": ["go", "goes", "going", "gone"],
+      "correctAnswer": 1,
+      "explanation": "Use 'goes' because the subject 'The manager' is third person singular."
+    }
+  ],
+  "part6": [
+    {
+      "id": 101,
+      "passage": "Dear Mr. Smith,\n\nWe are pleased to inform you that your application has been ___(1)___.",
+      "questions": [
+        {
+          "id": 1011,
+          "question": "Blank (1)",
+          "options": ["accept", "accepting", "accepted", "acceptable"],
+          "correctAnswer": 2,
+          "explanation": "Passive voice 'has been accepted'."
+        }
+      ]
+    }
+  ],
+  "part7": [
+    {
+      "id": 201,
+      "passage": "NOTICE\n\nThe staff cafeteria will be closed tomorrow.",
+      "questions": [
+        {
+          "id": 2011,
+          "question": "What is closed?",
+          "options": ["The gym", "The cafeteria", "The pool", "The office"],
+          "correctAnswer": 1,
+          "explanation": "The notice says the cafeteria."
+        }
+      ]
+    }
+  ]
+}
