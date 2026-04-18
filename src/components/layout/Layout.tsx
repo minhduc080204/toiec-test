@@ -1,5 +1,6 @@
-import { type ReactNode } from 'react';
+import { ReactNode } from 'react';
 import { Navbar } from './Navbar';
+import { FloatingChatbot } from '../chatbot/FloatingChatbot';
 
 interface LayoutProps {
   children: ReactNode;
@@ -7,11 +8,12 @@ interface LayoutProps {
 
 export const Layout = ({ children }: LayoutProps) => {
   return (
-    <div className="min-h-screen bg-gray-50 flex flex-col font-sans">
+    <div className="min-h-screen bg-gray-50 flex flex-col font-sans relative">
       <Navbar />
       <main className="flex-1 w-full max-w-5xl mx-auto px-4 py-8">
         {children}
       </main>
+      <FloatingChatbot />
     </div>
   );
 };
