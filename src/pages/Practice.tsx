@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react';
 import { useParams, useNavigate } from 'react-router';
 import { useQuizStore } from '../store/quizStore';
 import { QuestionCard } from '../components/quiz/QuestionCard';
-import { Question, PassageQuestion } from '../types';
+import type { Question, PassageQuestion } from '../types';
 
 export const Practice = () => {
   const { part } = useParams<{ part: string }>();
