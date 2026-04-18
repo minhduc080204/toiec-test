@@ -10,7 +10,7 @@ if (!fs.existsSync(EXAMS_DIR)) {
   fs.mkdirSync(EXAMS_DIR, { recursive: true });
 }
 
-// Pool of Part 5 questions
+// Pool of Part 5 questions (101-130)
 const part5Pool = [
   { q: "The manager ___ to the office every day.", o: ["go", "goes", "going", "gone"], c: 1, e: "Use 'goes' for third person singular." },
   { q: "Please submit the report ___ Friday.", o: ["in", "on", "by", "at"], c: 2, e: "'by' indicates a deadline." },
@@ -21,10 +21,15 @@ const part5Pool = [
   { q: "Ms. Lee was chosen for the promotion because of her ___ leadership skills.", o: ["exceptional", "exception", "exceptionally", "exceptions"], c: 0, e: "Adjective describing 'skills'." },
   { q: "The client ___ that the contract be revised before signing.", o: ["requested", "requesting", "to request", "request"], c: 0, e: "Past tense verb required." },
   { q: "All visitors must sign in at the front desk ___ entering the building.", o: ["after", "before", "while", "during"], c: 1, e: "Logical time sequence requires 'before'." },
-  { q: "The company's new policy will be implemented ___ next month.", o: ["starting", "starts", "to start", "started"], c: 0, e: "Present participle as a preposition." }
+  { q: "The company's new policy will be implemented ___ next month.", o: ["starting", "starts", "to start", "started"], c: 0, e: "Present participle as a preposition." },
+  { q: "The marketing team is ___ a new strategy to increase brand awareness.", o: ["developing", "development", "developed", "develops"], c: 0, e: "Present continuous tense for ongoing action." },
+  { q: "Mr. Henderson has been with the company ___ over twenty years.", o: ["since", "for", "during", "at"], c: 1, e: "'for' is used with a period of time." },
+  { q: "Please ensure that all files are ___ stored in the cabinet.", o: ["secure", "securely", "security", "securing"], c: 1, e: "Adverb needed to modify 'stored'." },
+  { q: "The seminar was ___ informative and engaging for all participants.", o: ["both", "either", "neither", "also"], c: 0, e: "'both ... and' correlation." },
+  { q: "Any employee who is ___ of the new regulations should speak with HR.", o: ["uncertain", "unclear", "unsure", "unlikely"], c: 2, e: "'unsure of' is the correct colocation." }
 ];
 
-// Pool of Part 6 passages
+// Pool of Part 6 passages (131-146)
 const part6Pool = [
   {
     p: "Dear Mr. Smith,\n\nWe are pleased to inform you that your application for the position has been ___(1)___. Our team was very impressed with your background. Please let us know ___(2)___ you are available for an interview next week. We look forward to ___(3)___ from you soon. If you have any questions, please feel free to contact us ___(4)___ anytime.\n\nSincerely,\nHR Dept",
@@ -46,8 +51,8 @@ const part6Pool = [
   }
 ];
 
-// Pool of Part 7 single passages
-const part7SinglePool = [
+// Pool of Part 7 single passages (147-200)
+const part7Pool = [
   {
     p: "To: All Employees\nFrom: IT Support\nSubject: Scheduled Network Outage\n\nPlease be advised that there will be a scheduled network outage this Saturday from 10:00 PM to 2:00 AM on Sunday. During this time, you will not be able to access the company intranet or email servers. This outage is necessary to upgrade our security systems. If you have urgent work that requires network access, please plan accordingly. We apologize for the inconvenience.",
     qs: [
@@ -65,6 +70,15 @@ const part7SinglePool = [
       { q: "When does the live music start?", o: ["8:00 AM", "6:00 PM", "8:00 PM", "Friday morning"], c: 1, e: "Live acoustic music from 6:00 PM." },
       { q: "Where is the business located?", o: ["Inside the city library", "At 123 Main Street", "Across from the park", "Next to a music store"], c: 1, e: "Located at 123 Main Street." }
     ]
+  },
+  {
+    p: "[Article from Daily Business News]\n\nLocal tech startup 'InnovateX' has announced its plans to expand its operations into the European market by early next year. The company, which specializes in AI-driven data analysis, has seen a 200% growth in its user base over the last 12 months. CEO Sarah Jenkins stated that London will serve as the company's European headquarters. Jenkins highlighted the city's vibrant tech ecosystem and access to top talent as primary factors for the decision.",
+    qs: [
+      { q: "What is InnovateX planning to do?", o: ["Release a new product", "Merge with another company", "Expand into Europe", "Hire a new CEO"], c: 2, e: "Plans to expand its operations into the European market." },
+      { q: "What does the company specialize in?", o: ["Cloud storage", "AI-driven data analysis", "Web design", "Financial consulting"], c: 1, e: "Specializes in AI-driven data analysis." },
+      { q: "Where will the new headquarters be located?", o: ["New York", "Berlin", "Paris", "London"], c: 3, e: "London will serve as the company's European headquarters." },
+      { q: "What was a factor in choosing the new location?", o: ["Low tax rates", "Vibrant tech ecosystem", "Inexpensive office space", "Proximity to manufacturing plants"], c: 1, e: "Jenkins highlighted the city's vibrant tech ecosystem." }
+    ]
   }
 ];
 
@@ -79,11 +93,13 @@ for (let i = 1; i <= 5; i++) {
     part7: []
   };
 
-  // Generate 30 Part 5 questions
-  for (let j = 1; j <= 30; j++) {
+  let currentQuestionId = 101;
+
+  // Generate 30 Part 5 questions (101-130)
+  for (let j = 0; j < 30; j++) {
     const q = getRandomItem(part5Pool);
     testData.part5.push({
-      id: parseInt(`5${i}${j.toString().padStart(2, '0')}`),
+      id: currentQuestionId++,
       question: q.q,
       options: q.o,
       correctAnswer: q.c,
@@ -91,45 +107,55 @@ for (let i = 1; i <= 5; i++) {
     });
   }
 
-  // Generate 16 Part 6 questions (4 passages * 4 qs)
-  for (let j = 1; j <= 4; j++) {
+  // Generate 16 Part 6 questions (131-146) - 4 passages of 4 questions
+  for (let j = 0; j < 4; j++) {
     const p = getRandomItem(part6Pool);
-    testData.part6.push({
-      id: parseInt(`6${i}${j}`),
-      passage: p.p,
-      questions: p.qs.map((q, qIdx) => ({
-        id: parseInt(`6${i}${j}${qIdx}`),
+    const questions = [];
+    for (let k = 0; k < 4; k++) {
+      const q = p.qs[k];
+      questions.push({
+        id: currentQuestionId++,
         question: q.q,
         options: q.o,
         correctAnswer: q.c,
         explanation: q.e
-      }))
+      });
+    }
+    testData.part6.push({
+      id: 131 + j, // Passage ID
+      passage: p.p,
+      questions: questions
     });
   }
 
-  // Generate 54 Part 7 questions (~13 passages * 4 qs + 1 with 2 qs)
-  let p7QsCount = 0;
-  let p7PassageCount = 1;
-  while (p7QsCount < 54) {
-    const p = getRandomItem(part7SinglePool);
-    const qsNeeded = Math.min(4, 54 - p7QsCount); // Take up to 4, or whatever is left to hit 54
+  // Generate 54 Part 7 questions (147-200)
+  // We'll use single passages to fill these
+  let p7PassageCount = 0;
+  while (currentQuestionId <= 200) {
+    const p = getRandomItem(part7Pool);
+    const qsNeeded = Math.min(4, 201 - currentQuestionId); // Take up to 4 or remaining
     
-    testData.part7.push({
-      id: parseInt(`7${i}${p7PassageCount}`),
-      passage: p.p,
-      questions: p.qs.slice(0, qsNeeded).map((q, qIdx) => ({
-        id: parseInt(`7${i}${p7PassageCount}${qIdx}`),
+    if (qsNeeded <= 0) break;
+
+    const questions = [];
+    for (let k = 0; k < qsNeeded; k++) {
+      const q = p.qs[k % p.qs.length]; // Cycle through pool questions if needed
+      questions.push({
+        id: currentQuestionId++,
         question: q.q,
         options: q.o,
         correctAnswer: q.c,
         explanation: q.e
-      }))
+      });
+    }
+
+    testData.part7.push({
+      id: 147 + p7PassageCount++,
+      passage: p.p,
+      questions: questions
     });
-    
-    p7QsCount += qsNeeded;
-    p7PassageCount++;
   }
 
   fs.writeFileSync(path.join(EXAMS_DIR, `test${i}.json`), JSON.stringify(testData, null, 2));
-  console.log(`Generated test${i}.json with ${testData.part5.length} P5, ${testData.part6.reduce((acc, p) => acc + p.questions.length, 0)} P6, and ${testData.part7.reduce((acc, p) => acc + p.questions.length, 0)} P7 questions.`);
+  console.log(`Generated test${i}.json (101-200)`);
 }

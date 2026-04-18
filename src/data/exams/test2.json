@@ -3,55 +3,7 @@
   "title": "Official Practice Test 2",
   "part5": [
     {
-      "id": 5201,
-      "question": "Please submit the report ___ Friday.",
-      "options": [
-        "in",
-        "on",
-        "by",
-        "at"
-      ],
-      "correctAnswer": 2,
-      "explanation": "'by' indicates a deadline."
-    },
-    {
-      "id": 5202,
-      "question": "Our profits have increased significantly ___ the past quarter.",
-      "options": [
-        "over",
-        "since",
-        "until",
-        "when"
-      ],
-      "correctAnswer": 0,
-      "explanation": "'over' fits the duration of time."
-    },
-    {
-      "id": 5203,
-      "question": "The manager ___ to the office every day.",
-      "options": [
-        "go",
-        "goes",
-        "going",
-        "gone"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Use 'goes' for third person singular."
-    },
-    {
-      "id": 5204,
-      "question": "___ the bad weather, the outdoor event was postponed.",
-      "options": [
-        "Because",
-        "Due to",
-        "Although",
-        "However"
-      ],
-      "correctAnswer": 1,
-      "explanation": "'Due to' is followed by a noun phrase."
-    },
-    {
-      "id": 5205,
+      "id": 101,
       "question": "Employees are required to attend the safety training ___ they have been here for years.",
       "options": [
         "even if",
@@ -63,127 +15,7 @@
       "explanation": "'even if' introduces a concession."
     },
     {
-      "id": 5206,
-      "question": "Please submit the report ___ Friday.",
-      "options": [
-        "in",
-        "on",
-        "by",
-        "at"
-      ],
-      "correctAnswer": 2,
-      "explanation": "'by' indicates a deadline."
-    },
-    {
-      "id": 5207,
-      "question": "The manager ___ to the office every day.",
-      "options": [
-        "go",
-        "goes",
-        "going",
-        "gone"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Use 'goes' for third person singular."
-    },
-    {
-      "id": 5208,
-      "question": "Please submit the report ___ Friday.",
-      "options": [
-        "in",
-        "on",
-        "by",
-        "at"
-      ],
-      "correctAnswer": 2,
-      "explanation": "'by' indicates a deadline."
-    },
-    {
-      "id": 5209,
-      "question": "___ the bad weather, the outdoor event was postponed.",
-      "options": [
-        "Because",
-        "Due to",
-        "Although",
-        "However"
-      ],
-      "correctAnswer": 1,
-      "explanation": "'Due to' is followed by a noun phrase."
-    },
-    {
-      "id": 5210,
-      "question": "All visitors must sign in at the front desk ___ entering the building.",
-      "options": [
-        "after",
-        "before",
-        "while",
-        "during"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Logical time sequence requires 'before'."
-    },
-    {
-      "id": 5211,
-      "question": "Employees are required to attend the safety training ___ they have been here for years.",
-      "options": [
-        "even if",
-        "despite",
-        "because",
-        "due to"
-      ],
-      "correctAnswer": 0,
-      "explanation": "'even if' introduces a concession."
-    },
-    {
-      "id": 5212,
-      "question": "All visitors must sign in at the front desk ___ entering the building.",
-      "options": [
-        "after",
-        "before",
-        "while",
-        "during"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Logical time sequence requires 'before'."
-    },
-    {
-      "id": 5213,
-      "question": "The company's new policy will be implemented ___ next month.",
-      "options": [
-        "starting",
-        "starts",
-        "to start",
-        "started"
-      ],
-      "correctAnswer": 0,
-      "explanation": "Present participle as a preposition."
-    },
-    {
-      "id": 5214,
-      "question": "Ms. Lee was chosen for the promotion because of her ___ leadership skills.",
-      "options": [
-        "exceptional",
-        "exception",
-        "exceptionally",
-        "exceptions"
-      ],
-      "correctAnswer": 0,
-      "explanation": "Adjective describing 'skills'."
-    },
-    {
-      "id": 5215,
-      "question": "The manager ___ to the office every day.",
-      "options": [
-        "go",
-        "goes",
-        "going",
-        "gone"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Use 'goes' for third person singular."
-    },
-    {
-      "id": 5216,
+      "id": 102,
       "question": "The new software is expected to make our operations much more ___.",
       "options": [
         "efficiency",
@@ -195,19 +27,139 @@
       "explanation": "Adjective needed after 'more'."
     },
     {
-      "id": 5217,
-      "question": "The client ___ that the contract be revised before signing.",
+      "id": 103,
+      "question": "Please ensure that all files are ___ stored in the cabinet.",
       "options": [
-        "requested",
-        "requesting",
-        "to request",
-        "request"
+        "secure",
+        "securely",
+        "security",
+        "securing"
       ],
-      "correctAnswer": 0,
-      "explanation": "Past tense verb required."
+      "correctAnswer": 1,
+      "explanation": "Adverb needed to modify 'stored'."
     },
     {
-      "id": 5218,
+      "id": 104,
+      "question": "The seminar was ___ informative and engaging for all participants.",
+      "options": [
+        "both",
+        "either",
+        "neither",
+        "also"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'both ... and' correlation."
+    },
+    {
+      "id": 105,
+      "question": "The seminar was ___ informative and engaging for all participants.",
+      "options": [
+        "both",
+        "either",
+        "neither",
+        "also"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'both ... and' correlation."
+    },
+    {
+      "id": 106,
+      "question": "Ms. Lee was chosen for the promotion because of her ___ leadership skills.",
+      "options": [
+        "exceptional",
+        "exception",
+        "exceptionally",
+        "exceptions"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Adjective describing 'skills'."
+    },
+    {
+      "id": 107,
+      "question": "___ the bad weather, the outdoor event was postponed.",
+      "options": [
+        "Because",
+        "Due to",
+        "Although",
+        "However"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Due to' is followed by a noun phrase."
+    },
+    {
+      "id": 108,
+      "question": "Our profits have increased significantly ___ the past quarter.",
+      "options": [
+        "over",
+        "since",
+        "until",
+        "when"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'over' fits the duration of time."
+    },
+    {
+      "id": 109,
+      "question": "The marketing team is ___ a new strategy to increase brand awareness.",
+      "options": [
+        "developing",
+        "development",
+        "developed",
+        "develops"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Present continuous tense for ongoing action."
+    },
+    {
+      "id": 110,
+      "question": "Please ensure that all files are ___ stored in the cabinet.",
+      "options": [
+        "secure",
+        "securely",
+        "security",
+        "securing"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Adverb needed to modify 'stored'."
+    },
+    {
+      "id": 111,
+      "question": "Mr. Henderson has been with the company ___ over twenty years.",
+      "options": [
+        "since",
+        "for",
+        "during",
+        "at"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'for' is used with a period of time."
+    },
+    {
+      "id": 112,
+      "question": "The manager ___ to the office every day.",
+      "options": [
+        "go",
+        "goes",
+        "going",
+        "gone"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Use 'goes' for third person singular."
+    },
+    {
+      "id": 113,
+      "question": "Our profits have increased significantly ___ the past quarter.",
+      "options": [
+        "over",
+        "since",
+        "until",
+        "when"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'over' fits the duration of time."
+    },
+    {
+      "id": 114,
       "question": "Employees are required to attend the safety training ___ they have been here for years.",
       "options": [
         "even if",
@@ -219,7 +171,31 @@
       "explanation": "'even if' introduces a concession."
     },
     {
-      "id": 5219,
+      "id": 115,
+      "question": "Employees are required to attend the safety training ___ they have been here for years.",
+      "options": [
+        "even if",
+        "despite",
+        "because",
+        "due to"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'even if' introduces a concession."
+    },
+    {
+      "id": 116,
+      "question": "The manager ___ to the office every day.",
+      "options": [
+        "go",
+        "goes",
+        "going",
+        "gone"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Use 'goes' for third person singular."
+    },
+    {
+      "id": 117,
       "question": "Ms. Lee was chosen for the promotion because of her ___ leadership skills.",
       "options": [
         "exceptional",
@@ -231,43 +207,7 @@
       "explanation": "Adjective describing 'skills'."
     },
     {
-      "id": 5220,
-      "question": "The company's new policy will be implemented ___ next month.",
-      "options": [
-        "starting",
-        "starts",
-        "to start",
-        "started"
-      ],
-      "correctAnswer": 0,
-      "explanation": "Present participle as a preposition."
-    },
-    {
-      "id": 5221,
-      "question": "Ms. Lee was chosen for the promotion because of her ___ leadership skills.",
-      "options": [
-        "exceptional",
-        "exception",
-        "exceptionally",
-        "exceptions"
-      ],
-      "correctAnswer": 0,
-      "explanation": "Adjective describing 'skills'."
-    },
-    {
-      "id": 5222,
-      "question": "Please submit the report ___ Friday.",
-      "options": [
-        "in",
-        "on",
-        "by",
-        "at"
-      ],
-      "correctAnswer": 2,
-      "explanation": "'by' indicates a deadline."
-    },
-    {
-      "id": 5223,
+      "id": 118,
       "question": "___ the bad weather, the outdoor event was postponed.",
       "options": [
         "Because",
@@ -279,43 +219,7 @@
       "explanation": "'Due to' is followed by a noun phrase."
     },
     {
-      "id": 5224,
-      "question": "___ the bad weather, the outdoor event was postponed.",
-      "options": [
-        "Because",
-        "Due to",
-        "Although",
-        "However"
-      ],
-      "correctAnswer": 1,
-      "explanation": "'Due to' is followed by a noun phrase."
-    },
-    {
-      "id": 5225,
-      "question": "All visitors must sign in at the front desk ___ entering the building.",
-      "options": [
-        "after",
-        "before",
-        "while",
-        "during"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Logical time sequence requires 'before'."
-    },
-    {
-      "id": 5226,
-      "question": "Please submit the report ___ Friday.",
-      "options": [
-        "in",
-        "on",
-        "by",
-        "at"
-      ],
-      "correctAnswer": 2,
-      "explanation": "'by' indicates a deadline."
-    },
-    {
-      "id": 5227,
+      "id": 119,
       "question": "The client ___ that the contract be revised before signing.",
       "options": [
         "requested",
@@ -327,19 +231,19 @@
       "explanation": "Past tense verb required."
     },
     {
-      "id": 5228,
-      "question": "The company's new policy will be implemented ___ next month.",
+      "id": 120,
+      "question": "Please ensure that all files are ___ stored in the cabinet.",
       "options": [
-        "starting",
-        "starts",
-        "to start",
-        "started"
+        "secure",
+        "securely",
+        "security",
+        "securing"
       ],
-      "correctAnswer": 0,
-      "explanation": "Present participle as a preposition."
+      "correctAnswer": 1,
+      "explanation": "Adverb needed to modify 'stored'."
     },
     {
-      "id": 5229,
+      "id": 121,
       "question": "Ms. Lee was chosen for the promotion because of her ___ leadership skills.",
       "options": [
         "exceptional",
@@ -351,133 +255,121 @@
       "explanation": "Adjective describing 'skills'."
     },
     {
-      "id": 5230,
-      "question": "All visitors must sign in at the front desk ___ entering the building.",
+      "id": 122,
+      "question": "Please ensure that all files are ___ stored in the cabinet.",
       "options": [
-        "after",
-        "before",
-        "while",
-        "during"
+        "secure",
+        "securely",
+        "security",
+        "securing"
       ],
       "correctAnswer": 1,
-      "explanation": "Logical time sequence requires 'before'."
+      "explanation": "Adverb needed to modify 'stored'."
+    },
+    {
+      "id": 123,
+      "question": "Please submit the report ___ Friday.",
+      "options": [
+        "in",
+        "on",
+        "by",
+        "at"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'by' indicates a deadline."
+    },
+    {
+      "id": 124,
+      "question": "The seminar was ___ informative and engaging for all participants.",
+      "options": [
+        "both",
+        "either",
+        "neither",
+        "also"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'both ... and' correlation."
+    },
+    {
+      "id": 125,
+      "question": "Our profits have increased significantly ___ the past quarter.",
+      "options": [
+        "over",
+        "since",
+        "until",
+        "when"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'over' fits the duration of time."
+    },
+    {
+      "id": 126,
+      "question": "Employees are required to attend the safety training ___ they have been here for years.",
+      "options": [
+        "even if",
+        "despite",
+        "because",
+        "due to"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'even if' introduces a concession."
+    },
+    {
+      "id": 127,
+      "question": "The marketing team is ___ a new strategy to increase brand awareness.",
+      "options": [
+        "developing",
+        "development",
+        "developed",
+        "develops"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Present continuous tense for ongoing action."
+    },
+    {
+      "id": 128,
+      "question": "Our profits have increased significantly ___ the past quarter.",
+      "options": [
+        "over",
+        "since",
+        "until",
+        "when"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'over' fits the duration of time."
+    },
+    {
+      "id": 129,
+      "question": "The new software is expected to make our operations much more ___.",
+      "options": [
+        "efficiency",
+        "efficiently",
+        "efficient",
+        "efficiencies"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Adjective needed after 'more'."
+    },
+    {
+      "id": 130,
+      "question": "The marketing team is ___ a new strategy to increase brand awareness.",
+      "options": [
+        "developing",
+        "development",
+        "developed",
+        "develops"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Present continuous tense for ongoing action."
     }
   ],
   "part6": [
     {
-      "id": 621,
-      "passage": "Notice to All Staff:\n\nThe building's elevator will be out of service for maintenance on ___(1)___. This is necessary to ensure the continued safety and ___(2)___ of the equipment. We apologize for any inconvenience this may cause and appreciate your ___(3)___. The stairs located at the end of the hall will be open for use ___(4)___ the day.\n\nManagement",
-      "questions": [
-        {
-          "id": 6210,
-          "question": "Blank (1)",
-          "options": [
-            "Monday",
-            "every day",
-            "recently",
-            "yesterday"
-          ],
-          "correctAnswer": 0,
-          "explanation": "Specific future date needed."
-        },
-        {
-          "id": 6211,
-          "question": "Blank (2)",
-          "options": [
-            "rely",
-            "reliable",
-            "reliability",
-            "reliably"
-          ],
-          "correctAnswer": 2,
-          "explanation": "Noun required after 'and'."
-        },
-        {
-          "id": 6212,
-          "question": "Blank (3)",
-          "options": [
-            "patience",
-            "patient",
-            "patiently",
-            "patients"
-          ],
-          "correctAnswer": 0,
-          "explanation": "Noun required as object of 'appreciate'."
-        },
-        {
-          "id": 6213,
-          "question": "Blank (4)",
-          "options": [
-            "throughout",
-            "between",
-            "among",
-            "inside"
-          ],
-          "correctAnswer": 0,
-          "explanation": "'throughout' indicates duration."
-        }
-      ]
-    },
-    {
-      "id": 622,
-      "passage": "Notice to All Staff:\n\nThe building's elevator will be out of service for maintenance on ___(1)___. This is necessary to ensure the continued safety and ___(2)___ of the equipment. We apologize for any inconvenience this may cause and appreciate your ___(3)___. The stairs located at the end of the hall will be open for use ___(4)___ the day.\n\nManagement",
-      "questions": [
-        {
-          "id": 6220,
-          "question": "Blank (1)",
-          "options": [
-            "Monday",
-            "every day",
-            "recently",
-            "yesterday"
-          ],
-          "correctAnswer": 0,
-          "explanation": "Specific future date needed."
-        },
-        {
-          "id": 6221,
-          "question": "Blank (2)",
-          "options": [
-            "rely",
-            "reliable",
-            "reliability",
-            "reliably"
-          ],
-          "correctAnswer": 2,
-          "explanation": "Noun required after 'and'."
-        },
-        {
-          "id": 6222,
-          "question": "Blank (3)",
-          "options": [
-            "patience",
-            "patient",
-            "patiently",
-            "patients"
-          ],
-          "correctAnswer": 0,
-          "explanation": "Noun required as object of 'appreciate'."
-        },
-        {
-          "id": 6223,
-          "question": "Blank (4)",
-          "options": [
-            "throughout",
-            "between",
-            "among",
-            "inside"
-          ],
-          "correctAnswer": 0,
-          "explanation": "'throughout' indicates duration."
-        }
-      ]
-    },
-    {
-      "id": 623,
+      "id": 131,
       "passage": "Dear Mr. Smith,\n\nWe are pleased to inform you that your application for the position has been ___(1)___. Our team was very impressed with your background. Please let us know ___(2)___ you are available for an interview next week. We look forward to ___(3)___ from you soon. If you have any questions, please feel free to contact us ___(4)___ anytime.\n\nSincerely,\nHR Dept",
       "questions": [
         {
-          "id": 6230,
+          "id": 131,
           "question": "Blank (1)",
           "options": [
             "accept",
@@ -489,7 +381,7 @@
           "explanation": "Passive voice 'has been accepted'."
         },
         {
-          "id": 6231,
+          "id": 132,
           "question": "Blank (2)",
           "options": [
             "when",
@@ -501,7 +393,7 @@
           "explanation": "'when' refers to time availability."
         },
         {
-          "id": 6232,
+          "id": 133,
           "question": "Blank (3)",
           "options": [
             "hear",
@@ -513,7 +405,7 @@
           "explanation": "'look forward to' + gerund."
         },
         {
-          "id": 6233,
+          "id": 134,
           "question": "Blank (4)",
           "options": [
             "at",
@@ -527,11 +419,11 @@
       ]
     },
     {
-      "id": 624,
+      "id": 132,
       "passage": "Notice to All Staff:\n\nThe building's elevator will be out of service for maintenance on ___(1)___. This is necessary to ensure the continued safety and ___(2)___ of the equipment. We apologize for any inconvenience this may cause and appreciate your ___(3)___. The stairs located at the end of the hall will be open for use ___(4)___ the day.\n\nManagement",
       "questions": [
         {
-          "id": 6240,
+          "id": 135,
           "question": "Blank (1)",
           "options": [
             "Monday",
@@ -543,7 +435,7 @@
           "explanation": "Specific future date needed."
         },
         {
-          "id": 6241,
+          "id": 136,
           "question": "Blank (2)",
           "options": [
             "rely",
@@ -555,7 +447,7 @@
           "explanation": "Noun required after 'and'."
         },
         {
-          "id": 6242,
+          "id": 137,
           "question": "Blank (3)",
           "options": [
             "patience",
@@ -567,7 +459,7 @@
           "explanation": "Noun required as object of 'appreciate'."
         },
         {
-          "id": 6243,
+          "id": 138,
           "question": "Blank (4)",
           "options": [
             "throughout",
@@ -579,15 +471,339 @@
           "explanation": "'throughout' indicates duration."
         }
       ]
+    },
+    {
+      "id": 133,
+      "passage": "Dear Mr. Smith,\n\nWe are pleased to inform you that your application for the position has been ___(1)___. Our team was very impressed with your background. Please let us know ___(2)___ you are available for an interview next week. We look forward to ___(3)___ from you soon. If you have any questions, please feel free to contact us ___(4)___ anytime.\n\nSincerely,\nHR Dept",
+      "questions": [
+        {
+          "id": 139,
+          "question": "Blank (1)",
+          "options": [
+            "accept",
+            "accepting",
+            "accepted",
+            "acceptable"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Passive voice 'has been accepted'."
+        },
+        {
+          "id": 140,
+          "question": "Blank (2)",
+          "options": [
+            "when",
+            "who",
+            "what",
+            "which"
+          ],
+          "correctAnswer": 0,
+          "explanation": "'when' refers to time availability."
+        },
+        {
+          "id": 141,
+          "question": "Blank (3)",
+          "options": [
+            "hear",
+            "hearing",
+            "heard",
+            "to hear"
+          ],
+          "correctAnswer": 1,
+          "explanation": "'look forward to' + gerund."
+        },
+        {
+          "id": 142,
+          "question": "Blank (4)",
+          "options": [
+            "at",
+            "in",
+            "on",
+            "by"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Idiomatic preposition 'at anytime'."
+        }
+      ]
+    },
+    {
+      "id": 134,
+      "passage": "Dear Mr. Smith,\n\nWe are pleased to inform you that your application for the position has been ___(1)___. Our team was very impressed with your background. Please let us know ___(2)___ you are available for an interview next week. We look forward to ___(3)___ from you soon. If you have any questions, please feel free to contact us ___(4)___ anytime.\n\nSincerely,\nHR Dept",
+      "questions": [
+        {
+          "id": 143,
+          "question": "Blank (1)",
+          "options": [
+            "accept",
+            "accepting",
+            "accepted",
+            "acceptable"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Passive voice 'has been accepted'."
+        },
+        {
+          "id": 144,
+          "question": "Blank (2)",
+          "options": [
+            "when",
+            "who",
+            "what",
+            "which"
+          ],
+          "correctAnswer": 0,
+          "explanation": "'when' refers to time availability."
+        },
+        {
+          "id": 145,
+          "question": "Blank (3)",
+          "options": [
+            "hear",
+            "hearing",
+            "heard",
+            "to hear"
+          ],
+          "correctAnswer": 1,
+          "explanation": "'look forward to' + gerund."
+        },
+        {
+          "id": 146,
+          "question": "Blank (4)",
+          "options": [
+            "at",
+            "in",
+            "on",
+            "by"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Idiomatic preposition 'at anytime'."
+        }
+      ]
     }
   ],
   "part7": [
     {
-      "id": 721,
+      "id": 147,
+      "passage": "[Article from Daily Business News]\n\nLocal tech startup 'InnovateX' has announced its plans to expand its operations into the European market by early next year. The company, which specializes in AI-driven data analysis, has seen a 200% growth in its user base over the last 12 months. CEO Sarah Jenkins stated that London will serve as the company's European headquarters. Jenkins highlighted the city's vibrant tech ecosystem and access to top talent as primary factors for the decision.",
+      "questions": [
+        {
+          "id": 147,
+          "question": "What is InnovateX planning to do?",
+          "options": [
+            "Release a new product",
+            "Merge with another company",
+            "Expand into Europe",
+            "Hire a new CEO"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Plans to expand its operations into the European market."
+        },
+        {
+          "id": 148,
+          "question": "What does the company specialize in?",
+          "options": [
+            "Cloud storage",
+            "AI-driven data analysis",
+            "Web design",
+            "Financial consulting"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Specializes in AI-driven data analysis."
+        },
+        {
+          "id": 149,
+          "question": "Where will the new headquarters be located?",
+          "options": [
+            "New York",
+            "Berlin",
+            "Paris",
+            "London"
+          ],
+          "correctAnswer": 3,
+          "explanation": "London will serve as the company's European headquarters."
+        },
+        {
+          "id": 150,
+          "question": "What was a factor in choosing the new location?",
+          "options": [
+            "Low tax rates",
+            "Vibrant tech ecosystem",
+            "Inexpensive office space",
+            "Proximity to manufacturing plants"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Jenkins highlighted the city's vibrant tech ecosystem."
+        }
+      ]
+    },
+    {
+      "id": 148,
+      "passage": "Grand Opening Special!\n\nCome celebrate the opening of 'Bean & Leaf' café this Friday at 8:00 AM! The first 50 customers will receive a free travel mug and a complimentary pastry with any drink purchase. Enjoy live acoustic music from 6:00 PM to 8:00 PM. We offer a wide selection of organic coffees, artisan teas, and freshly baked goods. Located at 123 Main Street, next to the city library.",
+      "questions": [
+        {
+          "id": 151,
+          "question": "What event is being advertised?",
+          "options": [
+            "A music concert",
+            "A library opening",
+            "A café grand opening",
+            "A baking class"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Celebrate the opening of Bean & Leaf café."
+        },
+        {
+          "id": 152,
+          "question": "What will the first 50 customers receive?",
+          "options": [
+            "Free coffee for a month",
+            "A travel mug and pastry",
+            "A discount on all drinks",
+            "A front-row seat for the music"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Receive a free travel mug and a complimentary pastry."
+        },
+        {
+          "id": 153,
+          "question": "When does the live music start?",
+          "options": [
+            "8:00 AM",
+            "6:00 PM",
+            "8:00 PM",
+            "Friday morning"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Live acoustic music from 6:00 PM."
+        },
+        {
+          "id": 154,
+          "question": "Where is the business located?",
+          "options": [
+            "Inside the city library",
+            "At 123 Main Street",
+            "Across from the park",
+            "Next to a music store"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Located at 123 Main Street."
+        }
+      ]
+    },
+    {
+      "id": 149,
+      "passage": "Grand Opening Special!\n\nCome celebrate the opening of 'Bean & Leaf' café this Friday at 8:00 AM! The first 50 customers will receive a free travel mug and a complimentary pastry with any drink purchase. Enjoy live acoustic music from 6:00 PM to 8:00 PM. We offer a wide selection of organic coffees, artisan teas, and freshly baked goods. Located at 123 Main Street, next to the city library.",
+      "questions": [
+        {
+          "id": 155,
+          "question": "What event is being advertised?",
+          "options": [
+            "A music concert",
+            "A library opening",
+            "A café grand opening",
+            "A baking class"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Celebrate the opening of Bean & Leaf café."
+        },
+        {
+          "id": 156,
+          "question": "What will the first 50 customers receive?",
+          "options": [
+            "Free coffee for a month",
+            "A travel mug and pastry",
+            "A discount on all drinks",
+            "A front-row seat for the music"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Receive a free travel mug and a complimentary pastry."
+        },
+        {
+          "id": 157,
+          "question": "When does the live music start?",
+          "options": [
+            "8:00 AM",
+            "6:00 PM",
+            "8:00 PM",
+            "Friday morning"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Live acoustic music from 6:00 PM."
+        },
+        {
+          "id": 158,
+          "question": "Where is the business located?",
+          "options": [
+            "Inside the city library",
+            "At 123 Main Street",
+            "Across from the park",
+            "Next to a music store"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Located at 123 Main Street."
+        }
+      ]
+    },
+    {
+      "id": 150,
+      "passage": "Grand Opening Special!\n\nCome celebrate the opening of 'Bean & Leaf' café this Friday at 8:00 AM! The first 50 customers will receive a free travel mug and a complimentary pastry with any drink purchase. Enjoy live acoustic music from 6:00 PM to 8:00 PM. We offer a wide selection of organic coffees, artisan teas, and freshly baked goods. Located at 123 Main Street, next to the city library.",
+      "questions": [
+        {
+          "id": 159,
+          "question": "What event is being advertised?",
+          "options": [
+            "A music concert",
+            "A library opening",
+            "A café grand opening",
+            "A baking class"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Celebrate the opening of Bean & Leaf café."
+        },
+        {
+          "id": 160,
+          "question": "What will the first 50 customers receive?",
+          "options": [
+            "Free coffee for a month",
+            "A travel mug and pastry",
+            "A discount on all drinks",
+            "A front-row seat for the music"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Receive a free travel mug and a complimentary pastry."
+        },
+        {
+          "id": 161,
+          "question": "When does the live music start?",
+          "options": [
+            "8:00 AM",
+            "6:00 PM",
+            "8:00 PM",
+            "Friday morning"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Live acoustic music from 6:00 PM."
+        },
+        {
+          "id": 162,
+          "question": "Where is the business located?",
+          "options": [
+            "Inside the city library",
+            "At 123 Main Street",
+            "Across from the park",
+            "Next to a music store"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Located at 123 Main Street."
+        }
+      ]
+    },
+    {
+      "id": 151,
       "passage": "To: All Employees\nFrom: IT Support\nSubject: Scheduled Network Outage\n\nPlease be advised that there will be a scheduled network outage this Saturday from 10:00 PM to 2:00 AM on Sunday. During this time, you will not be able to access the company intranet or email servers. This outage is necessary to upgrade our security systems. If you have urgent work that requires network access, please plan accordingly. We apologize for the inconvenience.",
       "questions": [
         {
-          "id": 7210,
+          "id": 163,
           "question": "What is the purpose of the memo?",
           "options": [
             "To announce a new security system",
@@ -599,7 +815,7 @@
           "explanation": "The memo advises of a scheduled network outage."
         },
         {
-          "id": 7211,
+          "id": 164,
           "question": "When will the outage begin?",
           "options": [
             "10:00 AM Saturday",
@@ -611,7 +827,7 @@
           "explanation": "The memo states Saturday from 10:00 PM."
         },
         {
-          "id": 7212,
+          "id": 165,
           "question": "What will employees be unable to do?",
           "options": [
             "Enter the building",
@@ -623,7 +839,7 @@
           "explanation": "They cannot access the intranet or email servers."
         },
         {
-          "id": 7213,
+          "id": 166,
           "question": "Why is the outage happening?",
           "options": [
             "To install new computers",
@@ -637,65 +853,11 @@
       ]
     },
     {
-      "id": 722,
-      "passage": "Grand Opening Special!\n\nCome celebrate the opening of 'Bean & Leaf' café this Friday at 8:00 AM! The first 50 customers will receive a free travel mug and a complimentary pastry with any drink purchase. Enjoy live acoustic music from 6:00 PM to 8:00 PM. We offer a wide selection of organic coffees, artisan teas, and freshly baked goods. Located at 123 Main Street, next to the city library.",
-      "questions": [
-        {
-          "id": 7220,
-          "question": "What event is being advertised?",
-          "options": [
-            "A music concert",
-            "A library opening",
-            "A café grand opening",
-            "A baking class"
-          ],
-          "correctAnswer": 2,
-          "explanation": "Celebrate the opening of Bean & Leaf café."
-        },
-        {
-          "id": 7221,
-          "question": "What will the first 50 customers receive?",
-          "options": [
-            "Free coffee for a month",
-            "A travel mug and pastry",
-            "A discount on all drinks",
-            "A front-row seat for the music"
-          ],
-          "correctAnswer": 1,
-          "explanation": "Receive a free travel mug and a complimentary pastry."
-        },
-        {
-          "id": 7222,
-          "question": "When does the live music start?",
-          "options": [
-            "8:00 AM",
-            "6:00 PM",
-            "8:00 PM",
-            "Friday morning"
-          ],
-          "correctAnswer": 1,
-          "explanation": "Live acoustic music from 6:00 PM."
-        },
-        {
-          "id": 7223,
-          "question": "Where is the business located?",
-          "options": [
-            "Inside the city library",
-            "At 123 Main Street",
-            "Across from the park",
-            "Next to a music store"
-          ],
-          "correctAnswer": 1,
-          "explanation": "Located at 123 Main Street."
-        }
-      ]
-    },
-    {
-      "id": 723,
+      "id": 152,
       "passage": "To: All Employees\nFrom: IT Support\nSubject: Scheduled Network Outage\n\nPlease be advised that there will be a scheduled network outage this Saturday from 10:00 PM to 2:00 AM on Sunday. During this time, you will not be able to access the company intranet or email servers. This outage is necessary to upgrade our security systems. If you have urgent work that requires network access, please plan accordingly. We apologize for the inconvenience.",
       "questions": [
         {
-          "id": 7230,
+          "id": 167,
           "question": "What is the purpose of the memo?",
           "options": [
             "To announce a new security system",
@@ -707,7 +869,7 @@
           "explanation": "The memo advises of a scheduled network outage."
         },
         {
-          "id": 7231,
+          "id": 168,
           "question": "When will the outage begin?",
           "options": [
             "10:00 AM Saturday",
@@ -719,7 +881,7 @@
           "explanation": "The memo states Saturday from 10:00 PM."
         },
         {
-          "id": 7232,
+          "id": 169,
           "question": "What will employees be unable to do?",
           "options": [
             "Enter the building",
@@ -731,7 +893,7 @@
           "explanation": "They cannot access the intranet or email servers."
         },
         {
-          "id": 7233,
+          "id": 170,
           "question": "Why is the outage happening?",
           "options": [
             "To install new computers",
@@ -745,65 +907,11 @@
       ]
     },
     {
-      "id": 724,
-      "passage": "Grand Opening Special!\n\nCome celebrate the opening of 'Bean & Leaf' café this Friday at 8:00 AM! The first 50 customers will receive a free travel mug and a complimentary pastry with any drink purchase. Enjoy live acoustic music from 6:00 PM to 8:00 PM. We offer a wide selection of organic coffees, artisan teas, and freshly baked goods. Located at 123 Main Street, next to the city library.",
-      "questions": [
-        {
-          "id": 7240,
-          "question": "What event is being advertised?",
-          "options": [
-            "A music concert",
-            "A library opening",
-            "A café grand opening",
-            "A baking class"
-          ],
-          "correctAnswer": 2,
-          "explanation": "Celebrate the opening of Bean & Leaf café."
-        },
-        {
-          "id": 7241,
-          "question": "What will the first 50 customers receive?",
-          "options": [
-            "Free coffee for a month",
-            "A travel mug and pastry",
-            "A discount on all drinks",
-            "A front-row seat for the music"
-          ],
-          "correctAnswer": 1,
-          "explanation": "Receive a free travel mug and a complimentary pastry."
-        },
-        {
-          "id": 7242,
-          "question": "When does the live music start?",
-          "options": [
-            "8:00 AM",
-            "6:00 PM",
-            "8:00 PM",
-            "Friday morning"
-          ],
-          "correctAnswer": 1,
-          "explanation": "Live acoustic music from 6:00 PM."
-        },
-        {
-          "id": 7243,
-          "question": "Where is the business located?",
-          "options": [
-            "Inside the city library",
-            "At 123 Main Street",
-            "Across from the park",
-            "Next to a music store"
-          ],
-          "correctAnswer": 1,
-          "explanation": "Located at 123 Main Street."
-        }
-      ]
-    },
-    {
-      "id": 725,
+      "id": 153,
       "passage": "To: All Employees\nFrom: IT Support\nSubject: Scheduled Network Outage\n\nPlease be advised that there will be a scheduled network outage this Saturday from 10:00 PM to 2:00 AM on Sunday. During this time, you will not be able to access the company intranet or email servers. This outage is necessary to upgrade our security systems. If you have urgent work that requires network access, please plan accordingly. We apologize for the inconvenience.",
       "questions": [
         {
-          "id": 7250,
+          "id": 171,
           "question": "What is the purpose of the memo?",
           "options": [
             "To announce a new security system",
@@ -815,7 +923,7 @@
           "explanation": "The memo advises of a scheduled network outage."
         },
         {
-          "id": 7251,
+          "id": 172,
           "question": "When will the outage begin?",
           "options": [
             "10:00 AM Saturday",
@@ -827,7 +935,7 @@
           "explanation": "The memo states Saturday from 10:00 PM."
         },
         {
-          "id": 7252,
+          "id": 173,
           "question": "What will employees be unable to do?",
           "options": [
             "Enter the building",
@@ -839,7 +947,7 @@
           "explanation": "They cannot access the intranet or email servers."
         },
         {
-          "id": 7253,
+          "id": 174,
           "question": "Why is the outage happening?",
           "options": [
             "To install new computers",
@@ -853,11 +961,11 @@
       ]
     },
     {
-      "id": 726,
+      "id": 154,
       "passage": "Grand Opening Special!\n\nCome celebrate the opening of 'Bean & Leaf' café this Friday at 8:00 AM! The first 50 customers will receive a free travel mug and a complimentary pastry with any drink purchase. Enjoy live acoustic music from 6:00 PM to 8:00 PM. We offer a wide selection of organic coffees, artisan teas, and freshly baked goods. Located at 123 Main Street, next to the city library.",
       "questions": [
         {
-          "id": 7260,
+          "id": 175,
           "question": "What event is being advertised?",
           "options": [
             "A music concert",
@@ -869,7 +977,7 @@
           "explanation": "Celebrate the opening of Bean & Leaf café."
         },
         {
-          "id": 7261,
+          "id": 176,
           "question": "What will the first 50 customers receive?",
           "options": [
             "Free coffee for a month",
@@ -881,7 +989,7 @@
           "explanation": "Receive a free travel mug and a complimentary pastry."
         },
         {
-          "id": 7262,
+          "id": 177,
           "question": "When does the live music start?",
           "options": [
             "8:00 AM",
@@ -893,7 +1001,7 @@
           "explanation": "Live acoustic music from 6:00 PM."
         },
         {
-          "id": 7263,
+          "id": 178,
           "question": "Where is the business located?",
           "options": [
             "Inside the city library",
@@ -907,11 +1015,11 @@
       ]
     },
     {
-      "id": 727,
+      "id": 155,
       "passage": "Grand Opening Special!\n\nCome celebrate the opening of 'Bean & Leaf' café this Friday at 8:00 AM! The first 50 customers will receive a free travel mug and a complimentary pastry with any drink purchase. Enjoy live acoustic music from 6:00 PM to 8:00 PM. We offer a wide selection of organic coffees, artisan teas, and freshly baked goods. Located at 123 Main Street, next to the city library.",
       "questions": [
         {
-          "id": 7270,
+          "id": 179,
           "question": "What event is being advertised?",
           "options": [
             "A music concert",
@@ -923,7 +1031,7 @@
           "explanation": "Celebrate the opening of Bean & Leaf café."
         },
         {
-          "id": 7271,
+          "id": 180,
           "question": "What will the first 50 customers receive?",
           "options": [
             "Free coffee for a month",
@@ -935,7 +1043,7 @@
           "explanation": "Receive a free travel mug and a complimentary pastry."
         },
         {
-          "id": 7272,
+          "id": 181,
           "question": "When does the live music start?",
           "options": [
             "8:00 AM",
@@ -947,7 +1055,7 @@
           "explanation": "Live acoustic music from 6:00 PM."
         },
         {
-          "id": 7273,
+          "id": 182,
           "question": "Where is the business located?",
           "options": [
             "Inside the city library",
@@ -961,65 +1069,11 @@
       ]
     },
     {
-      "id": 728,
-      "passage": "To: All Employees\nFrom: IT Support\nSubject: Scheduled Network Outage\n\nPlease be advised that there will be a scheduled network outage this Saturday from 10:00 PM to 2:00 AM on Sunday. During this time, you will not be able to access the company intranet or email servers. This outage is necessary to upgrade our security systems. If you have urgent work that requires network access, please plan accordingly. We apologize for the inconvenience.",
-      "questions": [
-        {
-          "id": 7280,
-          "question": "What is the purpose of the memo?",
-          "options": [
-            "To announce a new security system",
-            "To notify staff of network downtime",
-            "To schedule a maintenance meeting",
-            "To apologize for a recent error"
-          ],
-          "correctAnswer": 1,
-          "explanation": "The memo advises of a scheduled network outage."
-        },
-        {
-          "id": 7281,
-          "question": "When will the outage begin?",
-          "options": [
-            "10:00 AM Saturday",
-            "2:00 AM Sunday",
-            "10:00 PM Saturday",
-            "10:00 PM Sunday"
-          ],
-          "correctAnswer": 2,
-          "explanation": "The memo states Saturday from 10:00 PM."
-        },
-        {
-          "id": 7282,
-          "question": "What will employees be unable to do?",
-          "options": [
-            "Enter the building",
-            "Use their phones",
-            "Access company emails",
-            "Contact IT support"
-          ],
-          "correctAnswer": 2,
-          "explanation": "They cannot access the intranet or email servers."
-        },
-        {
-          "id": 7283,
-          "question": "Why is the outage happening?",
-          "options": [
-            "To install new computers",
-            "To upgrade security systems",
-            "To fix a broken server",
-            "To test the backup power"
-          ],
-          "correctAnswer": 1,
-          "explanation": "Necessary to upgrade our security systems."
-        }
-      ]
-    },
-    {
-      "id": 729,
+      "id": 156,
       "passage": "Grand Opening Special!\n\nCome celebrate the opening of 'Bean & Leaf' café this Friday at 8:00 AM! The first 50 customers will receive a free travel mug and a complimentary pastry with any drink purchase. Enjoy live acoustic music from 6:00 PM to 8:00 PM. We offer a wide selection of organic coffees, artisan teas, and freshly baked goods. Located at 123 Main Street, next to the city library.",
       "questions": [
         {
-          "id": 7290,
+          "id": 183,
           "question": "What event is being advertised?",
           "options": [
             "A music concert",
@@ -1031,7 +1085,7 @@
           "explanation": "Celebrate the opening of Bean & Leaf café."
         },
         {
-          "id": 7291,
+          "id": 184,
           "question": "What will the first 50 customers receive?",
           "options": [
             "Free coffee for a month",
@@ -1043,7 +1097,7 @@
           "explanation": "Receive a free travel mug and a complimentary pastry."
         },
         {
-          "id": 7292,
+          "id": 185,
           "question": "When does the live music start?",
           "options": [
             "8:00 AM",
@@ -1055,7 +1109,7 @@
           "explanation": "Live acoustic music from 6:00 PM."
         },
         {
-          "id": 7293,
+          "id": 186,
           "question": "Where is the business located?",
           "options": [
             "Inside the city library",
@@ -1069,65 +1123,173 @@
       ]
     },
     {
-      "id": 7210,
-      "passage": "To: All Employees\nFrom: IT Support\nSubject: Scheduled Network Outage\n\nPlease be advised that there will be a scheduled network outage this Saturday from 10:00 PM to 2:00 AM on Sunday. During this time, you will not be able to access the company intranet or email servers. This outage is necessary to upgrade our security systems. If you have urgent work that requires network access, please plan accordingly. We apologize for the inconvenience.",
+      "id": 157,
+      "passage": "[Article from Daily Business News]\n\nLocal tech startup 'InnovateX' has announced its plans to expand its operations into the European market by early next year. The company, which specializes in AI-driven data analysis, has seen a 200% growth in its user base over the last 12 months. CEO Sarah Jenkins stated that London will serve as the company's European headquarters. Jenkins highlighted the city's vibrant tech ecosystem and access to top talent as primary factors for the decision.",
       "questions": [
         {
-          "id": 72100,
-          "question": "What is the purpose of the memo?",
+          "id": 187,
+          "question": "What is InnovateX planning to do?",
           "options": [
-            "To announce a new security system",
-            "To notify staff of network downtime",
-            "To schedule a maintenance meeting",
-            "To apologize for a recent error"
-          ],
-          "correctAnswer": 1,
-          "explanation": "The memo advises of a scheduled network outage."
-        },
-        {
-          "id": 72101,
-          "question": "When will the outage begin?",
-          "options": [
-            "10:00 AM Saturday",
-            "2:00 AM Sunday",
-            "10:00 PM Saturday",
-            "10:00 PM Sunday"
+            "Release a new product",
+            "Merge with another company",
+            "Expand into Europe",
+            "Hire a new CEO"
           ],
           "correctAnswer": 2,
-          "explanation": "The memo states Saturday from 10:00 PM."
+          "explanation": "Plans to expand its operations into the European market."
         },
         {
-          "id": 72102,
-          "question": "What will employees be unable to do?",
+          "id": 188,
+          "question": "What does the company specialize in?",
           "options": [
-            "Enter the building",
-            "Use their phones",
-            "Access company emails",
-            "Contact IT support"
-          ],
-          "correctAnswer": 2,
-          "explanation": "They cannot access the intranet or email servers."
-        },
-        {
-          "id": 72103,
-          "question": "Why is the outage happening?",
-          "options": [
-            "To install new computers",
-            "To upgrade security systems",
-            "To fix a broken server",
-            "To test the backup power"
+            "Cloud storage",
+            "AI-driven data analysis",
+            "Web design",
+            "Financial consulting"
           ],
           "correctAnswer": 1,
-          "explanation": "Necessary to upgrade our security systems."
+          "explanation": "Specializes in AI-driven data analysis."
+        },
+        {
+          "id": 189,
+          "question": "Where will the new headquarters be located?",
+          "options": [
+            "New York",
+            "Berlin",
+            "Paris",
+            "London"
+          ],
+          "correctAnswer": 3,
+          "explanation": "London will serve as the company's European headquarters."
+        },
+        {
+          "id": 190,
+          "question": "What was a factor in choosing the new location?",
+          "options": [
+            "Low tax rates",
+            "Vibrant tech ecosystem",
+            "Inexpensive office space",
+            "Proximity to manufacturing plants"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Jenkins highlighted the city's vibrant tech ecosystem."
         }
       ]
     },
     {
-      "id": 7211,
+      "id": 158,
+      "passage": "[Article from Daily Business News]\n\nLocal tech startup 'InnovateX' has announced its plans to expand its operations into the European market by early next year. The company, which specializes in AI-driven data analysis, has seen a 200% growth in its user base over the last 12 months. CEO Sarah Jenkins stated that London will serve as the company's European headquarters. Jenkins highlighted the city's vibrant tech ecosystem and access to top talent as primary factors for the decision.",
+      "questions": [
+        {
+          "id": 191,
+          "question": "What is InnovateX planning to do?",
+          "options": [
+            "Release a new product",
+            "Merge with another company",
+            "Expand into Europe",
+            "Hire a new CEO"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Plans to expand its operations into the European market."
+        },
+        {
+          "id": 192,
+          "question": "What does the company specialize in?",
+          "options": [
+            "Cloud storage",
+            "AI-driven data analysis",
+            "Web design",
+            "Financial consulting"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Specializes in AI-driven data analysis."
+        },
+        {
+          "id": 193,
+          "question": "Where will the new headquarters be located?",
+          "options": [
+            "New York",
+            "Berlin",
+            "Paris",
+            "London"
+          ],
+          "correctAnswer": 3,
+          "explanation": "London will serve as the company's European headquarters."
+        },
+        {
+          "id": 194,
+          "question": "What was a factor in choosing the new location?",
+          "options": [
+            "Low tax rates",
+            "Vibrant tech ecosystem",
+            "Inexpensive office space",
+            "Proximity to manufacturing plants"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Jenkins highlighted the city's vibrant tech ecosystem."
+        }
+      ]
+    },
+    {
+      "id": 159,
+      "passage": "[Article from Daily Business News]\n\nLocal tech startup 'InnovateX' has announced its plans to expand its operations into the European market by early next year. The company, which specializes in AI-driven data analysis, has seen a 200% growth in its user base over the last 12 months. CEO Sarah Jenkins stated that London will serve as the company's European headquarters. Jenkins highlighted the city's vibrant tech ecosystem and access to top talent as primary factors for the decision.",
+      "questions": [
+        {
+          "id": 195,
+          "question": "What is InnovateX planning to do?",
+          "options": [
+            "Release a new product",
+            "Merge with another company",
+            "Expand into Europe",
+            "Hire a new CEO"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Plans to expand its operations into the European market."
+        },
+        {
+          "id": 196,
+          "question": "What does the company specialize in?",
+          "options": [
+            "Cloud storage",
+            "AI-driven data analysis",
+            "Web design",
+            "Financial consulting"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Specializes in AI-driven data analysis."
+        },
+        {
+          "id": 197,
+          "question": "Where will the new headquarters be located?",
+          "options": [
+            "New York",
+            "Berlin",
+            "Paris",
+            "London"
+          ],
+          "correctAnswer": 3,
+          "explanation": "London will serve as the company's European headquarters."
+        },
+        {
+          "id": 198,
+          "question": "What was a factor in choosing the new location?",
+          "options": [
+            "Low tax rates",
+            "Vibrant tech ecosystem",
+            "Inexpensive office space",
+            "Proximity to manufacturing plants"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Jenkins highlighted the city's vibrant tech ecosystem."
+        }
+      ]
+    },
+    {
+      "id": 160,
       "passage": "Grand Opening Special!\n\nCome celebrate the opening of 'Bean & Leaf' café this Friday at 8:00 AM! The first 50 customers will receive a free travel mug and a complimentary pastry with any drink purchase. Enjoy live acoustic music from 6:00 PM to 8:00 PM. We offer a wide selection of organic coffees, artisan teas, and freshly baked goods. Located at 123 Main Street, next to the city library.",
       "questions": [
         {
-          "id": 72110,
+          "id": 199,
           "question": "What event is being advertised?",
           "options": [
             "A music concert",
@@ -1139,169 +1301,7 @@
           "explanation": "Celebrate the opening of Bean & Leaf café."
         },
         {
-          "id": 72111,
-          "question": "What will the first 50 customers receive?",
-          "options": [
-            "Free coffee for a month",
-            "A travel mug and pastry",
-            "A discount on all drinks",
-            "A front-row seat for the music"
-          ],
-          "correctAnswer": 1,
-          "explanation": "Receive a free travel mug and a complimentary pastry."
-        },
-        {
-          "id": 72112,
-          "question": "When does the live music start?",
-          "options": [
-            "8:00 AM",
-            "6:00 PM",
-            "8:00 PM",
-            "Friday morning"
-          ],
-          "correctAnswer": 1,
-          "explanation": "Live acoustic music from 6:00 PM."
-        },
-        {
-          "id": 72113,
-          "question": "Where is the business located?",
-          "options": [
-            "Inside the city library",
-            "At 123 Main Street",
-            "Across from the park",
-            "Next to a music store"
-          ],
-          "correctAnswer": 1,
-          "explanation": "Located at 123 Main Street."
-        }
-      ]
-    },
-    {
-      "id": 7212,
-      "passage": "Grand Opening Special!\n\nCome celebrate the opening of 'Bean & Leaf' café this Friday at 8:00 AM! The first 50 customers will receive a free travel mug and a complimentary pastry with any drink purchase. Enjoy live acoustic music from 6:00 PM to 8:00 PM. We offer a wide selection of organic coffees, artisan teas, and freshly baked goods. Located at 123 Main Street, next to the city library.",
-      "questions": [
-        {
-          "id": 72120,
-          "question": "What event is being advertised?",
-          "options": [
-            "A music concert",
-            "A library opening",
-            "A café grand opening",
-            "A baking class"
-          ],
-          "correctAnswer": 2,
-          "explanation": "Celebrate the opening of Bean & Leaf café."
-        },
-        {
-          "id": 72121,
-          "question": "What will the first 50 customers receive?",
-          "options": [
-            "Free coffee for a month",
-            "A travel mug and pastry",
-            "A discount on all drinks",
-            "A front-row seat for the music"
-          ],
-          "correctAnswer": 1,
-          "explanation": "Receive a free travel mug and a complimentary pastry."
-        },
-        {
-          "id": 72122,
-          "question": "When does the live music start?",
-          "options": [
-            "8:00 AM",
-            "6:00 PM",
-            "8:00 PM",
-            "Friday morning"
-          ],
-          "correctAnswer": 1,
-          "explanation": "Live acoustic music from 6:00 PM."
-        },
-        {
-          "id": 72123,
-          "question": "Where is the business located?",
-          "options": [
-            "Inside the city library",
-            "At 123 Main Street",
-            "Across from the park",
-            "Next to a music store"
-          ],
-          "correctAnswer": 1,
-          "explanation": "Located at 123 Main Street."
-        }
-      ]
-    },
-    {
-      "id": 7213,
-      "passage": "Grand Opening Special!\n\nCome celebrate the opening of 'Bean & Leaf' café this Friday at 8:00 AM! The first 50 customers will receive a free travel mug and a complimentary pastry with any drink purchase. Enjoy live acoustic music from 6:00 PM to 8:00 PM. We offer a wide selection of organic coffees, artisan teas, and freshly baked goods. Located at 123 Main Street, next to the city library.",
-      "questions": [
-        {
-          "id": 72130,
-          "question": "What event is being advertised?",
-          "options": [
-            "A music concert",
-            "A library opening",
-            "A café grand opening",
-            "A baking class"
-          ],
-          "correctAnswer": 2,
-          "explanation": "Celebrate the opening of Bean & Leaf café."
-        },
-        {
-          "id": 72131,
-          "question": "What will the first 50 customers receive?",
-          "options": [
-            "Free coffee for a month",
-            "A travel mug and pastry",
-            "A discount on all drinks",
-            "A front-row seat for the music"
-          ],
-          "correctAnswer": 1,
-          "explanation": "Receive a free travel mug and a complimentary pastry."
-        },
-        {
-          "id": 72132,
-          "question": "When does the live music start?",
-          "options": [
-            "8:00 AM",
-            "6:00 PM",
-            "8:00 PM",
-            "Friday morning"
-          ],
-          "correctAnswer": 1,
-          "explanation": "Live acoustic music from 6:00 PM."
-        },
-        {
-          "id": 72133,
-          "question": "Where is the business located?",
-          "options": [
-            "Inside the city library",
-            "At 123 Main Street",
-            "Across from the park",
-            "Next to a music store"
-          ],
-          "correctAnswer": 1,
-          "explanation": "Located at 123 Main Street."
-        }
-      ]
-    },
-    {
-      "id": 7214,
-      "passage": "Grand Opening Special!\n\nCome celebrate the opening of 'Bean & Leaf' café this Friday at 8:00 AM! The first 50 customers will receive a free travel mug and a complimentary pastry with any drink purchase. Enjoy live acoustic music from 6:00 PM to 8:00 PM. We offer a wide selection of organic coffees, artisan teas, and freshly baked goods. Located at 123 Main Street, next to the city library.",
-      "questions": [
-        {
-          "id": 72140,
-          "question": "What event is being advertised?",
-          "options": [
-            "A music concert",
-            "A library opening",
-            "A café grand opening",
-            "A baking class"
-          ],
-          "correctAnswer": 2,
-          "explanation": "Celebrate the opening of Bean & Leaf café."
-        },
-        {
-          "id": 72141,
+          "id": 200,
           "question": "What will the first 50 customers receive?",
           "options": [
             "Free coffee for a month",

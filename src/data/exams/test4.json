@@ -3,19 +3,7 @@
   "title": "Official Practice Test 4",
   "part5": [
     {
-      "id": 5401,
-      "question": "Ms. Lee was chosen for the promotion because of her ___ leadership skills.",
-      "options": [
-        "exceptional",
-        "exception",
-        "exceptionally",
-        "exceptions"
-      ],
-      "correctAnswer": 0,
-      "explanation": "Adjective describing 'skills'."
-    },
-    {
-      "id": 5402,
+      "id": 101,
       "question": "All visitors must sign in at the front desk ___ entering the building.",
       "options": [
         "after",
@@ -27,31 +15,7 @@
       "explanation": "Logical time sequence requires 'before'."
     },
     {
-      "id": 5403,
-      "question": "The new software is expected to make our operations much more ___.",
-      "options": [
-        "efficiency",
-        "efficiently",
-        "efficient",
-        "efficiencies"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Adjective needed after 'more'."
-    },
-    {
-      "id": 5404,
-      "question": "Ms. Lee was chosen for the promotion because of her ___ leadership skills.",
-      "options": [
-        "exceptional",
-        "exception",
-        "exceptionally",
-        "exceptions"
-      ],
-      "correctAnswer": 0,
-      "explanation": "Adjective describing 'skills'."
-    },
-    {
-      "id": 5405,
+      "id": 102,
       "question": "The company's new policy will be implemented ___ next month.",
       "options": [
         "starting",
@@ -63,91 +27,79 @@
       "explanation": "Present participle as a preposition."
     },
     {
-      "id": 5406,
-      "question": "Please submit the report ___ Friday.",
+      "id": 103,
+      "question": "The marketing team is ___ a new strategy to increase brand awareness.",
       "options": [
-        "in",
-        "on",
-        "by",
-        "at"
-      ],
-      "correctAnswer": 2,
-      "explanation": "'by' indicates a deadline."
-    },
-    {
-      "id": 5407,
-      "question": "The manager ___ to the office every day.",
-      "options": [
-        "go",
-        "goes",
-        "going",
-        "gone"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Use 'goes' for third person singular."
-    },
-    {
-      "id": 5408,
-      "question": "___ the bad weather, the outdoor event was postponed.",
-      "options": [
-        "Because",
-        "Due to",
-        "Although",
-        "However"
-      ],
-      "correctAnswer": 1,
-      "explanation": "'Due to' is followed by a noun phrase."
-    },
-    {
-      "id": 5409,
-      "question": "The manager ___ to the office every day.",
-      "options": [
-        "go",
-        "goes",
-        "going",
-        "gone"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Use 'goes' for third person singular."
-    },
-    {
-      "id": 5410,
-      "question": "Please submit the report ___ Friday.",
-      "options": [
-        "in",
-        "on",
-        "by",
-        "at"
-      ],
-      "correctAnswer": 2,
-      "explanation": "'by' indicates a deadline."
-    },
-    {
-      "id": 5411,
-      "question": "The manager ___ to the office every day.",
-      "options": [
-        "go",
-        "goes",
-        "going",
-        "gone"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Use 'goes' for third person singular."
-    },
-    {
-      "id": 5412,
-      "question": "Employees are required to attend the safety training ___ they have been here for years.",
-      "options": [
-        "even if",
-        "despite",
-        "because",
-        "due to"
+        "developing",
+        "development",
+        "developed",
+        "develops"
       ],
       "correctAnswer": 0,
-      "explanation": "'even if' introduces a concession."
+      "explanation": "Present continuous tense for ongoing action."
     },
     {
-      "id": 5413,
+      "id": 104,
+      "question": "The marketing team is ___ a new strategy to increase brand awareness.",
+      "options": [
+        "developing",
+        "development",
+        "developed",
+        "develops"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Present continuous tense for ongoing action."
+    },
+    {
+      "id": 105,
+      "question": "Please submit the report ___ Friday.",
+      "options": [
+        "in",
+        "on",
+        "by",
+        "at"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'by' indicates a deadline."
+    },
+    {
+      "id": 106,
+      "question": "The seminar was ___ informative and engaging for all participants.",
+      "options": [
+        "both",
+        "either",
+        "neither",
+        "also"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'both ... and' correlation."
+    },
+    {
+      "id": 107,
+      "question": "Any employee who is ___ of the new regulations should speak with HR.",
+      "options": [
+        "uncertain",
+        "unclear",
+        "unsure",
+        "unlikely"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'unsure of' is the correct colocation."
+    },
+    {
+      "id": 108,
+      "question": "Mr. Henderson has been with the company ___ over twenty years.",
+      "options": [
+        "since",
+        "for",
+        "during",
+        "at"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'for' is used with a period of time."
+    },
+    {
+      "id": 109,
       "question": "The client ___ that the contract be revised before signing.",
       "options": [
         "requested",
@@ -159,91 +111,19 @@
       "explanation": "Past tense verb required."
     },
     {
-      "id": 5414,
-      "question": "Please submit the report ___ Friday.",
+      "id": 110,
+      "question": "All visitors must sign in at the front desk ___ entering the building.",
       "options": [
-        "in",
-        "on",
-        "by",
-        "at"
-      ],
-      "correctAnswer": 2,
-      "explanation": "'by' indicates a deadline."
-    },
-    {
-      "id": 5415,
-      "question": "The new software is expected to make our operations much more ___.",
-      "options": [
-        "efficiency",
-        "efficiently",
-        "efficient",
-        "efficiencies"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Adjective needed after 'more'."
-    },
-    {
-      "id": 5416,
-      "question": "The new software is expected to make our operations much more ___.",
-      "options": [
-        "efficiency",
-        "efficiently",
-        "efficient",
-        "efficiencies"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Adjective needed after 'more'."
-    },
-    {
-      "id": 5417,
-      "question": "Please submit the report ___ Friday.",
-      "options": [
-        "in",
-        "on",
-        "by",
-        "at"
-      ],
-      "correctAnswer": 2,
-      "explanation": "'by' indicates a deadline."
-    },
-    {
-      "id": 5418,
-      "question": "The manager ___ to the office every day.",
-      "options": [
-        "go",
-        "goes",
-        "going",
-        "gone"
+        "after",
+        "before",
+        "while",
+        "during"
       ],
       "correctAnswer": 1,
-      "explanation": "Use 'goes' for third person singular."
+      "explanation": "Logical time sequence requires 'before'."
     },
     {
-      "id": 5419,
-      "question": "Please submit the report ___ Friday.",
-      "options": [
-        "in",
-        "on",
-        "by",
-        "at"
-      ],
-      "correctAnswer": 2,
-      "explanation": "'by' indicates a deadline."
-    },
-    {
-      "id": 5420,
-      "question": "Ms. Lee was chosen for the promotion because of her ___ leadership skills.",
-      "options": [
-        "exceptional",
-        "exception",
-        "exceptionally",
-        "exceptions"
-      ],
-      "correctAnswer": 0,
-      "explanation": "Adjective describing 'skills'."
-    },
-    {
-      "id": 5421,
+      "id": 111,
       "question": "Our profits have increased significantly ___ the past quarter.",
       "options": [
         "over",
@@ -255,31 +135,31 @@
       "explanation": "'over' fits the duration of time."
     },
     {
-      "id": 5422,
-      "question": "The manager ___ to the office every day.",
+      "id": 112,
+      "question": "The company's new policy will be implemented ___ next month.",
       "options": [
-        "go",
-        "goes",
-        "going",
-        "gone"
+        "starting",
+        "starts",
+        "to start",
+        "started"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Present participle as a preposition."
+    },
+    {
+      "id": 113,
+      "question": "Please ensure that all files are ___ stored in the cabinet.",
+      "options": [
+        "secure",
+        "securely",
+        "security",
+        "securing"
       ],
       "correctAnswer": 1,
-      "explanation": "Use 'goes' for third person singular."
+      "explanation": "Adverb needed to modify 'stored'."
     },
     {
-      "id": 5423,
-      "question": "Please submit the report ___ Friday.",
-      "options": [
-        "in",
-        "on",
-        "by",
-        "at"
-      ],
-      "correctAnswer": 2,
-      "explanation": "'by' indicates a deadline."
-    },
-    {
-      "id": 5424,
+      "id": 114,
       "question": "Ms. Lee was chosen for the promotion because of her ___ leadership skills.",
       "options": [
         "exceptional",
@@ -291,7 +171,139 @@
       "explanation": "Adjective describing 'skills'."
     },
     {
-      "id": 5425,
+      "id": 115,
+      "question": "The marketing team is ___ a new strategy to increase brand awareness.",
+      "options": [
+        "developing",
+        "development",
+        "developed",
+        "develops"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Present continuous tense for ongoing action."
+    },
+    {
+      "id": 116,
+      "question": "Our profits have increased significantly ___ the past quarter.",
+      "options": [
+        "over",
+        "since",
+        "until",
+        "when"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'over' fits the duration of time."
+    },
+    {
+      "id": 117,
+      "question": "The new software is expected to make our operations much more ___.",
+      "options": [
+        "efficiency",
+        "efficiently",
+        "efficient",
+        "efficiencies"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Adjective needed after 'more'."
+    },
+    {
+      "id": 118,
+      "question": "Please ensure that all files are ___ stored in the cabinet.",
+      "options": [
+        "secure",
+        "securely",
+        "security",
+        "securing"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Adverb needed to modify 'stored'."
+    },
+    {
+      "id": 119,
+      "question": "The marketing team is ___ a new strategy to increase brand awareness.",
+      "options": [
+        "developing",
+        "development",
+        "developed",
+        "develops"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Present continuous tense for ongoing action."
+    },
+    {
+      "id": 120,
+      "question": "Please ensure that all files are ___ stored in the cabinet.",
+      "options": [
+        "secure",
+        "securely",
+        "security",
+        "securing"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Adverb needed to modify 'stored'."
+    },
+    {
+      "id": 121,
+      "question": "Any employee who is ___ of the new regulations should speak with HR.",
+      "options": [
+        "uncertain",
+        "unclear",
+        "unsure",
+        "unlikely"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'unsure of' is the correct colocation."
+    },
+    {
+      "id": 122,
+      "question": "Mr. Henderson has been with the company ___ over twenty years.",
+      "options": [
+        "since",
+        "for",
+        "during",
+        "at"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'for' is used with a period of time."
+    },
+    {
+      "id": 123,
+      "question": "Please submit the report ___ Friday.",
+      "options": [
+        "in",
+        "on",
+        "by",
+        "at"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'by' indicates a deadline."
+    },
+    {
+      "id": 124,
+      "question": "The company's new policy will be implemented ___ next month.",
+      "options": [
+        "starting",
+        "starts",
+        "to start",
+        "started"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Present participle as a preposition."
+    },
+    {
+      "id": 125,
+      "question": "Please submit the report ___ Friday.",
+      "options": [
+        "in",
+        "on",
+        "by",
+        "at"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'by' indicates a deadline."
+    },
+    {
+      "id": 126,
       "question": "The client ___ that the contract be revised before signing.",
       "options": [
         "requested",
@@ -303,43 +315,31 @@
       "explanation": "Past tense verb required."
     },
     {
-      "id": 5426,
-      "question": "Ms. Lee was chosen for the promotion because of her ___ leadership skills.",
+      "id": 127,
+      "question": "___ the bad weather, the outdoor event was postponed.",
       "options": [
-        "exceptional",
-        "exception",
-        "exceptionally",
-        "exceptions"
+        "Because",
+        "Due to",
+        "Although",
+        "However"
       ],
-      "correctAnswer": 0,
-      "explanation": "Adjective describing 'skills'."
+      "correctAnswer": 1,
+      "explanation": "'Due to' is followed by a noun phrase."
     },
     {
-      "id": 5427,
-      "question": "Our profits have increased significantly ___ the past quarter.",
+      "id": 128,
+      "question": "Any employee who is ___ of the new regulations should speak with HR.",
       "options": [
-        "over",
-        "since",
-        "until",
-        "when"
+        "uncertain",
+        "unclear",
+        "unsure",
+        "unlikely"
       ],
-      "correctAnswer": 0,
-      "explanation": "'over' fits the duration of time."
+      "correctAnswer": 2,
+      "explanation": "'unsure of' is the correct colocation."
     },
     {
-      "id": 5428,
-      "question": "Our profits have increased significantly ___ the past quarter.",
-      "options": [
-        "over",
-        "since",
-        "until",
-        "when"
-      ],
-      "correctAnswer": 0,
-      "explanation": "'over' fits the duration of time."
-    },
-    {
-      "id": 5429,
+      "id": 129,
       "question": "Employees are required to attend the safety training ___ they have been here for years.",
       "options": [
         "even if",
@@ -351,79 +351,25 @@
       "explanation": "'even if' introduces a concession."
     },
     {
-      "id": 5430,
-      "question": "___ the bad weather, the outdoor event was postponed.",
+      "id": 130,
+      "question": "Please ensure that all files are ___ stored in the cabinet.",
       "options": [
-        "Because",
-        "Due to",
-        "Although",
-        "However"
+        "secure",
+        "securely",
+        "security",
+        "securing"
       ],
       "correctAnswer": 1,
-      "explanation": "'Due to' is followed by a noun phrase."
+      "explanation": "Adverb needed to modify 'stored'."
     }
   ],
   "part6": [
     {
-      "id": 641,
-      "passage": "Dear Mr. Smith,\n\nWe are pleased to inform you that your application for the position has been ___(1)___. Our team was very impressed with your background. Please let us know ___(2)___ you are available for an interview next week. We look forward to ___(3)___ from you soon. If you have any questions, please feel free to contact us ___(4)___ anytime.\n\nSincerely,\nHR Dept",
-      "questions": [
-        {
-          "id": 6410,
-          "question": "Blank (1)",
-          "options": [
-            "accept",
-            "accepting",
-            "accepted",
-            "acceptable"
-          ],
-          "correctAnswer": 2,
-          "explanation": "Passive voice 'has been accepted'."
-        },
-        {
-          "id": 6411,
-          "question": "Blank (2)",
-          "options": [
-            "when",
-            "who",
-            "what",
-            "which"
-          ],
-          "correctAnswer": 0,
-          "explanation": "'when' refers to time availability."
-        },
-        {
-          "id": 6412,
-          "question": "Blank (3)",
-          "options": [
-            "hear",
-            "hearing",
-            "heard",
-            "to hear"
-          ],
-          "correctAnswer": 1,
-          "explanation": "'look forward to' + gerund."
-        },
-        {
-          "id": 6413,
-          "question": "Blank (4)",
-          "options": [
-            "at",
-            "in",
-            "on",
-            "by"
-          ],
-          "correctAnswer": 0,
-          "explanation": "Idiomatic preposition 'at anytime'."
-        }
-      ]
-    },
-    {
-      "id": 642,
+      "id": 131,
       "passage": "Notice to All Staff:\n\nThe building's elevator will be out of service for maintenance on ___(1)___. This is necessary to ensure the continued safety and ___(2)___ of the equipment. We apologize for any inconvenience this may cause and appreciate your ___(3)___. The stairs located at the end of the hall will be open for use ___(4)___ the day.\n\nManagement",
       "questions": [
         {
-          "id": 6420,
+          "id": 131,
           "question": "Blank (1)",
           "options": [
             "Monday",
@@ -435,7 +381,7 @@
           "explanation": "Specific future date needed."
         },
         {
-          "id": 6421,
+          "id": 132,
           "question": "Blank (2)",
           "options": [
             "rely",
@@ -447,7 +393,7 @@
           "explanation": "Noun required after 'and'."
         },
         {
-          "id": 6422,
+          "id": 133,
           "question": "Blank (3)",
           "options": [
             "patience",
@@ -459,7 +405,7 @@
           "explanation": "Noun required as object of 'appreciate'."
         },
         {
-          "id": 6423,
+          "id": 134,
           "question": "Blank (4)",
           "options": [
             "throughout",
@@ -473,121 +419,391 @@
       ]
     },
     {
-      "id": 643,
-      "passage": "Dear Mr. Smith,\n\nWe are pleased to inform you that your application for the position has been ___(1)___. Our team was very impressed with your background. Please let us know ___(2)___ you are available for an interview next week. We look forward to ___(3)___ from you soon. If you have any questions, please feel free to contact us ___(4)___ anytime.\n\nSincerely,\nHR Dept",
+      "id": 132,
+      "passage": "Notice to All Staff:\n\nThe building's elevator will be out of service for maintenance on ___(1)___. This is necessary to ensure the continued safety and ___(2)___ of the equipment. We apologize for any inconvenience this may cause and appreciate your ___(3)___. The stairs located at the end of the hall will be open for use ___(4)___ the day.\n\nManagement",
       "questions": [
         {
-          "id": 6430,
+          "id": 135,
           "question": "Blank (1)",
           "options": [
-            "accept",
-            "accepting",
-            "accepted",
-            "acceptable"
+            "Monday",
+            "every day",
+            "recently",
+            "yesterday"
           ],
-          "correctAnswer": 2,
-          "explanation": "Passive voice 'has been accepted'."
+          "correctAnswer": 0,
+          "explanation": "Specific future date needed."
         },
         {
-          "id": 6431,
+          "id": 136,
           "question": "Blank (2)",
           "options": [
-            "when",
-            "who",
-            "what",
-            "which"
+            "rely",
+            "reliable",
+            "reliability",
+            "reliably"
           ],
-          "correctAnswer": 0,
-          "explanation": "'when' refers to time availability."
+          "correctAnswer": 2,
+          "explanation": "Noun required after 'and'."
         },
         {
-          "id": 6432,
+          "id": 137,
           "question": "Blank (3)",
           "options": [
-            "hear",
-            "hearing",
-            "heard",
-            "to hear"
-          ],
-          "correctAnswer": 1,
-          "explanation": "'look forward to' + gerund."
-        },
-        {
-          "id": 6433,
-          "question": "Blank (4)",
-          "options": [
-            "at",
-            "in",
-            "on",
-            "by"
+            "patience",
+            "patient",
+            "patiently",
+            "patients"
           ],
           "correctAnswer": 0,
-          "explanation": "Idiomatic preposition 'at anytime'."
+          "explanation": "Noun required as object of 'appreciate'."
+        },
+        {
+          "id": 138,
+          "question": "Blank (4)",
+          "options": [
+            "throughout",
+            "between",
+            "among",
+            "inside"
+          ],
+          "correctAnswer": 0,
+          "explanation": "'throughout' indicates duration."
         }
       ]
     },
     {
-      "id": 644,
-      "passage": "Dear Mr. Smith,\n\nWe are pleased to inform you that your application for the position has been ___(1)___. Our team was very impressed with your background. Please let us know ___(2)___ you are available for an interview next week. We look forward to ___(3)___ from you soon. If you have any questions, please feel free to contact us ___(4)___ anytime.\n\nSincerely,\nHR Dept",
+      "id": 133,
+      "passage": "Notice to All Staff:\n\nThe building's elevator will be out of service for maintenance on ___(1)___. This is necessary to ensure the continued safety and ___(2)___ of the equipment. We apologize for any inconvenience this may cause and appreciate your ___(3)___. The stairs located at the end of the hall will be open for use ___(4)___ the day.\n\nManagement",
       "questions": [
         {
-          "id": 6440,
+          "id": 139,
           "question": "Blank (1)",
           "options": [
-            "accept",
-            "accepting",
-            "accepted",
-            "acceptable"
+            "Monday",
+            "every day",
+            "recently",
+            "yesterday"
           ],
-          "correctAnswer": 2,
-          "explanation": "Passive voice 'has been accepted'."
+          "correctAnswer": 0,
+          "explanation": "Specific future date needed."
         },
         {
-          "id": 6441,
+          "id": 140,
           "question": "Blank (2)",
           "options": [
-            "when",
-            "who",
-            "what",
-            "which"
+            "rely",
+            "reliable",
+            "reliability",
+            "reliably"
           ],
-          "correctAnswer": 0,
-          "explanation": "'when' refers to time availability."
+          "correctAnswer": 2,
+          "explanation": "Noun required after 'and'."
         },
         {
-          "id": 6442,
+          "id": 141,
           "question": "Blank (3)",
           "options": [
-            "hear",
-            "hearing",
-            "heard",
-            "to hear"
-          ],
-          "correctAnswer": 1,
-          "explanation": "'look forward to' + gerund."
-        },
-        {
-          "id": 6443,
-          "question": "Blank (4)",
-          "options": [
-            "at",
-            "in",
-            "on",
-            "by"
+            "patience",
+            "patient",
+            "patiently",
+            "patients"
           ],
           "correctAnswer": 0,
-          "explanation": "Idiomatic preposition 'at anytime'."
+          "explanation": "Noun required as object of 'appreciate'."
+        },
+        {
+          "id": 142,
+          "question": "Blank (4)",
+          "options": [
+            "throughout",
+            "between",
+            "among",
+            "inside"
+          ],
+          "correctAnswer": 0,
+          "explanation": "'throughout' indicates duration."
+        }
+      ]
+    },
+    {
+      "id": 134,
+      "passage": "Notice to All Staff:\n\nThe building's elevator will be out of service for maintenance on ___(1)___. This is necessary to ensure the continued safety and ___(2)___ of the equipment. We apologize for any inconvenience this may cause and appreciate your ___(3)___. The stairs located at the end of the hall will be open for use ___(4)___ the day.\n\nManagement",
+      "questions": [
+        {
+          "id": 143,
+          "question": "Blank (1)",
+          "options": [
+            "Monday",
+            "every day",
+            "recently",
+            "yesterday"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Specific future date needed."
+        },
+        {
+          "id": 144,
+          "question": "Blank (2)",
+          "options": [
+            "rely",
+            "reliable",
+            "reliability",
+            "reliably"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Noun required after 'and'."
+        },
+        {
+          "id": 145,
+          "question": "Blank (3)",
+          "options": [
+            "patience",
+            "patient",
+            "patiently",
+            "patients"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Noun required as object of 'appreciate'."
+        },
+        {
+          "id": 146,
+          "question": "Blank (4)",
+          "options": [
+            "throughout",
+            "between",
+            "among",
+            "inside"
+          ],
+          "correctAnswer": 0,
+          "explanation": "'throughout' indicates duration."
         }
       ]
     }
   ],
   "part7": [
     {
-      "id": 741,
+      "id": 147,
+      "passage": "To: All Employees\nFrom: IT Support\nSubject: Scheduled Network Outage\n\nPlease be advised that there will be a scheduled network outage this Saturday from 10:00 PM to 2:00 AM on Sunday. During this time, you will not be able to access the company intranet or email servers. This outage is necessary to upgrade our security systems. If you have urgent work that requires network access, please plan accordingly. We apologize for the inconvenience.",
+      "questions": [
+        {
+          "id": 147,
+          "question": "What is the purpose of the memo?",
+          "options": [
+            "To announce a new security system",
+            "To notify staff of network downtime",
+            "To schedule a maintenance meeting",
+            "To apologize for a recent error"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The memo advises of a scheduled network outage."
+        },
+        {
+          "id": 148,
+          "question": "When will the outage begin?",
+          "options": [
+            "10:00 AM Saturday",
+            "2:00 AM Sunday",
+            "10:00 PM Saturday",
+            "10:00 PM Sunday"
+          ],
+          "correctAnswer": 2,
+          "explanation": "The memo states Saturday from 10:00 PM."
+        },
+        {
+          "id": 149,
+          "question": "What will employees be unable to do?",
+          "options": [
+            "Enter the building",
+            "Use their phones",
+            "Access company emails",
+            "Contact IT support"
+          ],
+          "correctAnswer": 2,
+          "explanation": "They cannot access the intranet or email servers."
+        },
+        {
+          "id": 150,
+          "question": "Why is the outage happening?",
+          "options": [
+            "To install new computers",
+            "To upgrade security systems",
+            "To fix a broken server",
+            "To test the backup power"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Necessary to upgrade our security systems."
+        }
+      ]
+    },
+    {
+      "id": 148,
+      "passage": "[Article from Daily Business News]\n\nLocal tech startup 'InnovateX' has announced its plans to expand its operations into the European market by early next year. The company, which specializes in AI-driven data analysis, has seen a 200% growth in its user base over the last 12 months. CEO Sarah Jenkins stated that London will serve as the company's European headquarters. Jenkins highlighted the city's vibrant tech ecosystem and access to top talent as primary factors for the decision.",
+      "questions": [
+        {
+          "id": 151,
+          "question": "What is InnovateX planning to do?",
+          "options": [
+            "Release a new product",
+            "Merge with another company",
+            "Expand into Europe",
+            "Hire a new CEO"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Plans to expand its operations into the European market."
+        },
+        {
+          "id": 152,
+          "question": "What does the company specialize in?",
+          "options": [
+            "Cloud storage",
+            "AI-driven data analysis",
+            "Web design",
+            "Financial consulting"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Specializes in AI-driven data analysis."
+        },
+        {
+          "id": 153,
+          "question": "Where will the new headquarters be located?",
+          "options": [
+            "New York",
+            "Berlin",
+            "Paris",
+            "London"
+          ],
+          "correctAnswer": 3,
+          "explanation": "London will serve as the company's European headquarters."
+        },
+        {
+          "id": 154,
+          "question": "What was a factor in choosing the new location?",
+          "options": [
+            "Low tax rates",
+            "Vibrant tech ecosystem",
+            "Inexpensive office space",
+            "Proximity to manufacturing plants"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Jenkins highlighted the city's vibrant tech ecosystem."
+        }
+      ]
+    },
+    {
+      "id": 149,
+      "passage": "To: All Employees\nFrom: IT Support\nSubject: Scheduled Network Outage\n\nPlease be advised that there will be a scheduled network outage this Saturday from 10:00 PM to 2:00 AM on Sunday. During this time, you will not be able to access the company intranet or email servers. This outage is necessary to upgrade our security systems. If you have urgent work that requires network access, please plan accordingly. We apologize for the inconvenience.",
+      "questions": [
+        {
+          "id": 155,
+          "question": "What is the purpose of the memo?",
+          "options": [
+            "To announce a new security system",
+            "To notify staff of network downtime",
+            "To schedule a maintenance meeting",
+            "To apologize for a recent error"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The memo advises of a scheduled network outage."
+        },
+        {
+          "id": 156,
+          "question": "When will the outage begin?",
+          "options": [
+            "10:00 AM Saturday",
+            "2:00 AM Sunday",
+            "10:00 PM Saturday",
+            "10:00 PM Sunday"
+          ],
+          "correctAnswer": 2,
+          "explanation": "The memo states Saturday from 10:00 PM."
+        },
+        {
+          "id": 157,
+          "question": "What will employees be unable to do?",
+          "options": [
+            "Enter the building",
+            "Use their phones",
+            "Access company emails",
+            "Contact IT support"
+          ],
+          "correctAnswer": 2,
+          "explanation": "They cannot access the intranet or email servers."
+        },
+        {
+          "id": 158,
+          "question": "Why is the outage happening?",
+          "options": [
+            "To install new computers",
+            "To upgrade security systems",
+            "To fix a broken server",
+            "To test the backup power"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Necessary to upgrade our security systems."
+        }
+      ]
+    },
+    {
+      "id": 150,
+      "passage": "[Article from Daily Business News]\n\nLocal tech startup 'InnovateX' has announced its plans to expand its operations into the European market by early next year. The company, which specializes in AI-driven data analysis, has seen a 200% growth in its user base over the last 12 months. CEO Sarah Jenkins stated that London will serve as the company's European headquarters. Jenkins highlighted the city's vibrant tech ecosystem and access to top talent as primary factors for the decision.",
+      "questions": [
+        {
+          "id": 159,
+          "question": "What is InnovateX planning to do?",
+          "options": [
+            "Release a new product",
+            "Merge with another company",
+            "Expand into Europe",
+            "Hire a new CEO"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Plans to expand its operations into the European market."
+        },
+        {
+          "id": 160,
+          "question": "What does the company specialize in?",
+          "options": [
+            "Cloud storage",
+            "AI-driven data analysis",
+            "Web design",
+            "Financial consulting"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Specializes in AI-driven data analysis."
+        },
+        {
+          "id": 161,
+          "question": "Where will the new headquarters be located?",
+          "options": [
+            "New York",
+            "Berlin",
+            "Paris",
+            "London"
+          ],
+          "correctAnswer": 3,
+          "explanation": "London will serve as the company's European headquarters."
+        },
+        {
+          "id": 162,
+          "question": "What was a factor in choosing the new location?",
+          "options": [
+            "Low tax rates",
+            "Vibrant tech ecosystem",
+            "Inexpensive office space",
+            "Proximity to manufacturing plants"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Jenkins highlighted the city's vibrant tech ecosystem."
+        }
+      ]
+    },
+    {
+      "id": 151,
       "passage": "Grand Opening Special!\n\nCome celebrate the opening of 'Bean & Leaf' café this Friday at 8:00 AM! The first 50 customers will receive a free travel mug and a complimentary pastry with any drink purchase. Enjoy live acoustic music from 6:00 PM to 8:00 PM. We offer a wide selection of organic coffees, artisan teas, and freshly baked goods. Located at 123 Main Street, next to the city library.",
       "questions": [
         {
-          "id": 7410,
+          "id": 163,
           "question": "What event is being advertised?",
           "options": [
             "A music concert",
@@ -599,7 +815,7 @@
           "explanation": "Celebrate the opening of Bean & Leaf café."
         },
         {
-          "id": 7411,
+          "id": 164,
           "question": "What will the first 50 customers receive?",
           "options": [
             "Free coffee for a month",
@@ -611,7 +827,7 @@
           "explanation": "Receive a free travel mug and a complimentary pastry."
         },
         {
-          "id": 7412,
+          "id": 165,
           "question": "When does the live music start?",
           "options": [
             "8:00 AM",
@@ -623,7 +839,7 @@
           "explanation": "Live acoustic music from 6:00 PM."
         },
         {
-          "id": 7413,
+          "id": 166,
           "question": "Where is the business located?",
           "options": [
             "Inside the city library",
@@ -637,11 +853,65 @@
       ]
     },
     {
-      "id": 742,
+      "id": 152,
+      "passage": "[Article from Daily Business News]\n\nLocal tech startup 'InnovateX' has announced its plans to expand its operations into the European market by early next year. The company, which specializes in AI-driven data analysis, has seen a 200% growth in its user base over the last 12 months. CEO Sarah Jenkins stated that London will serve as the company's European headquarters. Jenkins highlighted the city's vibrant tech ecosystem and access to top talent as primary factors for the decision.",
+      "questions": [
+        {
+          "id": 167,
+          "question": "What is InnovateX planning to do?",
+          "options": [
+            "Release a new product",
+            "Merge with another company",
+            "Expand into Europe",
+            "Hire a new CEO"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Plans to expand its operations into the European market."
+        },
+        {
+          "id": 168,
+          "question": "What does the company specialize in?",
+          "options": [
+            "Cloud storage",
+            "AI-driven data analysis",
+            "Web design",
+            "Financial consulting"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Specializes in AI-driven data analysis."
+        },
+        {
+          "id": 169,
+          "question": "Where will the new headquarters be located?",
+          "options": [
+            "New York",
+            "Berlin",
+            "Paris",
+            "London"
+          ],
+          "correctAnswer": 3,
+          "explanation": "London will serve as the company's European headquarters."
+        },
+        {
+          "id": 170,
+          "question": "What was a factor in choosing the new location?",
+          "options": [
+            "Low tax rates",
+            "Vibrant tech ecosystem",
+            "Inexpensive office space",
+            "Proximity to manufacturing plants"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Jenkins highlighted the city's vibrant tech ecosystem."
+        }
+      ]
+    },
+    {
+      "id": 153,
       "passage": "To: All Employees\nFrom: IT Support\nSubject: Scheduled Network Outage\n\nPlease be advised that there will be a scheduled network outage this Saturday from 10:00 PM to 2:00 AM on Sunday. During this time, you will not be able to access the company intranet or email servers. This outage is necessary to upgrade our security systems. If you have urgent work that requires network access, please plan accordingly. We apologize for the inconvenience.",
       "questions": [
         {
-          "id": 7420,
+          "id": 171,
           "question": "What is the purpose of the memo?",
           "options": [
             "To announce a new security system",
@@ -653,7 +923,7 @@
           "explanation": "The memo advises of a scheduled network outage."
         },
         {
-          "id": 7421,
+          "id": 172,
           "question": "When will the outage begin?",
           "options": [
             "10:00 AM Saturday",
@@ -665,7 +935,7 @@
           "explanation": "The memo states Saturday from 10:00 PM."
         },
         {
-          "id": 7422,
+          "id": 173,
           "question": "What will employees be unable to do?",
           "options": [
             "Enter the building",
@@ -677,7 +947,7 @@
           "explanation": "They cannot access the intranet or email servers."
         },
         {
-          "id": 7423,
+          "id": 174,
           "question": "Why is the outage happening?",
           "options": [
             "To install new computers",
@@ -691,11 +961,65 @@
       ]
     },
     {
-      "id": 743,
+      "id": 154,
+      "passage": "To: All Employees\nFrom: IT Support\nSubject: Scheduled Network Outage\n\nPlease be advised that there will be a scheduled network outage this Saturday from 10:00 PM to 2:00 AM on Sunday. During this time, you will not be able to access the company intranet or email servers. This outage is necessary to upgrade our security systems. If you have urgent work that requires network access, please plan accordingly. We apologize for the inconvenience.",
+      "questions": [
+        {
+          "id": 175,
+          "question": "What is the purpose of the memo?",
+          "options": [
+            "To announce a new security system",
+            "To notify staff of network downtime",
+            "To schedule a maintenance meeting",
+            "To apologize for a recent error"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The memo advises of a scheduled network outage."
+        },
+        {
+          "id": 176,
+          "question": "When will the outage begin?",
+          "options": [
+            "10:00 AM Saturday",
+            "2:00 AM Sunday",
+            "10:00 PM Saturday",
+            "10:00 PM Sunday"
+          ],
+          "correctAnswer": 2,
+          "explanation": "The memo states Saturday from 10:00 PM."
+        },
+        {
+          "id": 177,
+          "question": "What will employees be unable to do?",
+          "options": [
+            "Enter the building",
+            "Use their phones",
+            "Access company emails",
+            "Contact IT support"
+          ],
+          "correctAnswer": 2,
+          "explanation": "They cannot access the intranet or email servers."
+        },
+        {
+          "id": 178,
+          "question": "Why is the outage happening?",
+          "options": [
+            "To install new computers",
+            "To upgrade security systems",
+            "To fix a broken server",
+            "To test the backup power"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Necessary to upgrade our security systems."
+        }
+      ]
+    },
+    {
+      "id": 155,
       "passage": "Grand Opening Special!\n\nCome celebrate the opening of 'Bean & Leaf' café this Friday at 8:00 AM! The first 50 customers will receive a free travel mug and a complimentary pastry with any drink purchase. Enjoy live acoustic music from 6:00 PM to 8:00 PM. We offer a wide selection of organic coffees, artisan teas, and freshly baked goods. Located at 123 Main Street, next to the city library.",
       "questions": [
         {
-          "id": 7430,
+          "id": 179,
           "question": "What event is being advertised?",
           "options": [
             "A music concert",
@@ -707,7 +1031,7 @@
           "explanation": "Celebrate the opening of Bean & Leaf café."
         },
         {
-          "id": 7431,
+          "id": 180,
           "question": "What will the first 50 customers receive?",
           "options": [
             "Free coffee for a month",
@@ -719,7 +1043,7 @@
           "explanation": "Receive a free travel mug and a complimentary pastry."
         },
         {
-          "id": 7432,
+          "id": 181,
           "question": "When does the live music start?",
           "options": [
             "8:00 AM",
@@ -731,7 +1055,7 @@
           "explanation": "Live acoustic music from 6:00 PM."
         },
         {
-          "id": 7433,
+          "id": 182,
           "question": "Where is the business located?",
           "options": [
             "Inside the city library",
@@ -745,119 +1069,11 @@
       ]
     },
     {
-      "id": 744,
-      "passage": "To: All Employees\nFrom: IT Support\nSubject: Scheduled Network Outage\n\nPlease be advised that there will be a scheduled network outage this Saturday from 10:00 PM to 2:00 AM on Sunday. During this time, you will not be able to access the company intranet or email servers. This outage is necessary to upgrade our security systems. If you have urgent work that requires network access, please plan accordingly. We apologize for the inconvenience.",
-      "questions": [
-        {
-          "id": 7440,
-          "question": "What is the purpose of the memo?",
-          "options": [
-            "To announce a new security system",
-            "To notify staff of network downtime",
-            "To schedule a maintenance meeting",
-            "To apologize for a recent error"
-          ],
-          "correctAnswer": 1,
-          "explanation": "The memo advises of a scheduled network outage."
-        },
-        {
-          "id": 7441,
-          "question": "When will the outage begin?",
-          "options": [
-            "10:00 AM Saturday",
-            "2:00 AM Sunday",
-            "10:00 PM Saturday",
-            "10:00 PM Sunday"
-          ],
-          "correctAnswer": 2,
-          "explanation": "The memo states Saturday from 10:00 PM."
-        },
-        {
-          "id": 7442,
-          "question": "What will employees be unable to do?",
-          "options": [
-            "Enter the building",
-            "Use their phones",
-            "Access company emails",
-            "Contact IT support"
-          ],
-          "correctAnswer": 2,
-          "explanation": "They cannot access the intranet or email servers."
-        },
-        {
-          "id": 7443,
-          "question": "Why is the outage happening?",
-          "options": [
-            "To install new computers",
-            "To upgrade security systems",
-            "To fix a broken server",
-            "To test the backup power"
-          ],
-          "correctAnswer": 1,
-          "explanation": "Necessary to upgrade our security systems."
-        }
-      ]
-    },
-    {
-      "id": 745,
-      "passage": "To: All Employees\nFrom: IT Support\nSubject: Scheduled Network Outage\n\nPlease be advised that there will be a scheduled network outage this Saturday from 10:00 PM to 2:00 AM on Sunday. During this time, you will not be able to access the company intranet or email servers. This outage is necessary to upgrade our security systems. If you have urgent work that requires network access, please plan accordingly. We apologize for the inconvenience.",
-      "questions": [
-        {
-          "id": 7450,
-          "question": "What is the purpose of the memo?",
-          "options": [
-            "To announce a new security system",
-            "To notify staff of network downtime",
-            "To schedule a maintenance meeting",
-            "To apologize for a recent error"
-          ],
-          "correctAnswer": 1,
-          "explanation": "The memo advises of a scheduled network outage."
-        },
-        {
-          "id": 7451,
-          "question": "When will the outage begin?",
-          "options": [
-            "10:00 AM Saturday",
-            "2:00 AM Sunday",
-            "10:00 PM Saturday",
-            "10:00 PM Sunday"
-          ],
-          "correctAnswer": 2,
-          "explanation": "The memo states Saturday from 10:00 PM."
-        },
-        {
-          "id": 7452,
-          "question": "What will employees be unable to do?",
-          "options": [
-            "Enter the building",
-            "Use their phones",
-            "Access company emails",
-            "Contact IT support"
-          ],
-          "correctAnswer": 2,
-          "explanation": "They cannot access the intranet or email servers."
-        },
-        {
-          "id": 7453,
-          "question": "Why is the outage happening?",
-          "options": [
-            "To install new computers",
-            "To upgrade security systems",
-            "To fix a broken server",
-            "To test the backup power"
-          ],
-          "correctAnswer": 1,
-          "explanation": "Necessary to upgrade our security systems."
-        }
-      ]
-    },
-    {
-      "id": 746,
+      "id": 156,
       "passage": "Grand Opening Special!\n\nCome celebrate the opening of 'Bean & Leaf' café this Friday at 8:00 AM! The first 50 customers will receive a free travel mug and a complimentary pastry with any drink purchase. Enjoy live acoustic music from 6:00 PM to 8:00 PM. We offer a wide selection of organic coffees, artisan teas, and freshly baked goods. Located at 123 Main Street, next to the city library.",
       "questions": [
         {
-          "id": 7460,
+          "id": 183,
           "question": "What event is being advertised?",
           "options": [
             "A music concert",
@@ -869,7 +1085,7 @@
           "explanation": "Celebrate the opening of Bean & Leaf café."
         },
         {
-          "id": 7461,
+          "id": 184,
           "question": "What will the first 50 customers receive?",
           "options": [
             "Free coffee for a month",
@@ -881,7 +1097,7 @@
           "explanation": "Receive a free travel mug and a complimentary pastry."
         },
         {
-          "id": 7462,
+          "id": 185,
           "question": "When does the live music start?",
           "options": [
             "8:00 AM",
@@ -893,7 +1109,7 @@
           "explanation": "Live acoustic music from 6:00 PM."
         },
         {
-          "id": 7463,
+          "id": 186,
           "question": "Where is the business located?",
           "options": [
             "Inside the city library",
@@ -907,11 +1123,119 @@
       ]
     },
     {
-      "id": 747,
+      "id": 157,
+      "passage": "To: All Employees\nFrom: IT Support\nSubject: Scheduled Network Outage\n\nPlease be advised that there will be a scheduled network outage this Saturday from 10:00 PM to 2:00 AM on Sunday. During this time, you will not be able to access the company intranet or email servers. This outage is necessary to upgrade our security systems. If you have urgent work that requires network access, please plan accordingly. We apologize for the inconvenience.",
+      "questions": [
+        {
+          "id": 187,
+          "question": "What is the purpose of the memo?",
+          "options": [
+            "To announce a new security system",
+            "To notify staff of network downtime",
+            "To schedule a maintenance meeting",
+            "To apologize for a recent error"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The memo advises of a scheduled network outage."
+        },
+        {
+          "id": 188,
+          "question": "When will the outage begin?",
+          "options": [
+            "10:00 AM Saturday",
+            "2:00 AM Sunday",
+            "10:00 PM Saturday",
+            "10:00 PM Sunday"
+          ],
+          "correctAnswer": 2,
+          "explanation": "The memo states Saturday from 10:00 PM."
+        },
+        {
+          "id": 189,
+          "question": "What will employees be unable to do?",
+          "options": [
+            "Enter the building",
+            "Use their phones",
+            "Access company emails",
+            "Contact IT support"
+          ],
+          "correctAnswer": 2,
+          "explanation": "They cannot access the intranet or email servers."
+        },
+        {
+          "id": 190,
+          "question": "Why is the outage happening?",
+          "options": [
+            "To install new computers",
+            "To upgrade security systems",
+            "To fix a broken server",
+            "To test the backup power"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Necessary to upgrade our security systems."
+        }
+      ]
+    },
+    {
+      "id": 158,
+      "passage": "To: All Employees\nFrom: IT Support\nSubject: Scheduled Network Outage\n\nPlease be advised that there will be a scheduled network outage this Saturday from 10:00 PM to 2:00 AM on Sunday. During this time, you will not be able to access the company intranet or email servers. This outage is necessary to upgrade our security systems. If you have urgent work that requires network access, please plan accordingly. We apologize for the inconvenience.",
+      "questions": [
+        {
+          "id": 191,
+          "question": "What is the purpose of the memo?",
+          "options": [
+            "To announce a new security system",
+            "To notify staff of network downtime",
+            "To schedule a maintenance meeting",
+            "To apologize for a recent error"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The memo advises of a scheduled network outage."
+        },
+        {
+          "id": 192,
+          "question": "When will the outage begin?",
+          "options": [
+            "10:00 AM Saturday",
+            "2:00 AM Sunday",
+            "10:00 PM Saturday",
+            "10:00 PM Sunday"
+          ],
+          "correctAnswer": 2,
+          "explanation": "The memo states Saturday from 10:00 PM."
+        },
+        {
+          "id": 193,
+          "question": "What will employees be unable to do?",
+          "options": [
+            "Enter the building",
+            "Use their phones",
+            "Access company emails",
+            "Contact IT support"
+          ],
+          "correctAnswer": 2,
+          "explanation": "They cannot access the intranet or email servers."
+        },
+        {
+          "id": 194,
+          "question": "Why is the outage happening?",
+          "options": [
+            "To install new computers",
+            "To upgrade security systems",
+            "To fix a broken server",
+            "To test the backup power"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Necessary to upgrade our security systems."
+        }
+      ]
+    },
+    {
+      "id": 159,
       "passage": "Grand Opening Special!\n\nCome celebrate the opening of 'Bean & Leaf' café this Friday at 8:00 AM! The first 50 customers will receive a free travel mug and a complimentary pastry with any drink purchase. Enjoy live acoustic music from 6:00 PM to 8:00 PM. We offer a wide selection of organic coffees, artisan teas, and freshly baked goods. Located at 123 Main Street, next to the city library.",
       "questions": [
         {
-          "id": 7470,
+          "id": 195,
           "question": "What event is being advertised?",
           "options": [
             "A music concert",
@@ -923,7 +1247,7 @@
           "explanation": "Celebrate the opening of Bean & Leaf café."
         },
         {
-          "id": 7471,
+          "id": 196,
           "question": "What will the first 50 customers receive?",
           "options": [
             "Free coffee for a month",
@@ -935,7 +1259,7 @@
           "explanation": "Receive a free travel mug and a complimentary pastry."
         },
         {
-          "id": 7472,
+          "id": 197,
           "question": "When does the live music start?",
           "options": [
             "8:00 AM",
@@ -947,7 +1271,7 @@
           "explanation": "Live acoustic music from 6:00 PM."
         },
         {
-          "id": 7473,
+          "id": 198,
           "question": "Where is the business located?",
           "options": [
             "Inside the city library",
@@ -961,11 +1285,11 @@
       ]
     },
     {
-      "id": 748,
+      "id": 160,
       "passage": "Grand Opening Special!\n\nCome celebrate the opening of 'Bean & Leaf' café this Friday at 8:00 AM! The first 50 customers will receive a free travel mug and a complimentary pastry with any drink purchase. Enjoy live acoustic music from 6:00 PM to 8:00 PM. We offer a wide selection of organic coffees, artisan teas, and freshly baked goods. Located at 123 Main Street, next to the city library.",
       "questions": [
         {
-          "id": 7480,
+          "id": 199,
           "question": "What event is being advertised?",
           "options": [
             "A music concert",
@@ -977,7 +1301,7 @@
           "explanation": "Celebrate the opening of Bean & Leaf café."
         },
         {
-          "id": 7481,
+          "id": 200,
           "question": "What will the first 50 customers receive?",
           "options": [
             "Free coffee for a month",
@@ -987,330 +1311,6 @@
           ],
           "correctAnswer": 1,
           "explanation": "Receive a free travel mug and a complimentary pastry."
-        },
-        {
-          "id": 7482,
-          "question": "When does the live music start?",
-          "options": [
-            "8:00 AM",
-            "6:00 PM",
-            "8:00 PM",
-            "Friday morning"
-          ],
-          "correctAnswer": 1,
-          "explanation": "Live acoustic music from 6:00 PM."
-        },
-        {
-          "id": 7483,
-          "question": "Where is the business located?",
-          "options": [
-            "Inside the city library",
-            "At 123 Main Street",
-            "Across from the park",
-            "Next to a music store"
-          ],
-          "correctAnswer": 1,
-          "explanation": "Located at 123 Main Street."
-        }
-      ]
-    },
-    {
-      "id": 749,
-      "passage": "To: All Employees\nFrom: IT Support\nSubject: Scheduled Network Outage\n\nPlease be advised that there will be a scheduled network outage this Saturday from 10:00 PM to 2:00 AM on Sunday. During this time, you will not be able to access the company intranet or email servers. This outage is necessary to upgrade our security systems. If you have urgent work that requires network access, please plan accordingly. We apologize for the inconvenience.",
-      "questions": [
-        {
-          "id": 7490,
-          "question": "What is the purpose of the memo?",
-          "options": [
-            "To announce a new security system",
-            "To notify staff of network downtime",
-            "To schedule a maintenance meeting",
-            "To apologize for a recent error"
-          ],
-          "correctAnswer": 1,
-          "explanation": "The memo advises of a scheduled network outage."
-        },
-        {
-          "id": 7491,
-          "question": "When will the outage begin?",
-          "options": [
-            "10:00 AM Saturday",
-            "2:00 AM Sunday",
-            "10:00 PM Saturday",
-            "10:00 PM Sunday"
-          ],
-          "correctAnswer": 2,
-          "explanation": "The memo states Saturday from 10:00 PM."
-        },
-        {
-          "id": 7492,
-          "question": "What will employees be unable to do?",
-          "options": [
-            "Enter the building",
-            "Use their phones",
-            "Access company emails",
-            "Contact IT support"
-          ],
-          "correctAnswer": 2,
-          "explanation": "They cannot access the intranet or email servers."
-        },
-        {
-          "id": 7493,
-          "question": "Why is the outage happening?",
-          "options": [
-            "To install new computers",
-            "To upgrade security systems",
-            "To fix a broken server",
-            "To test the backup power"
-          ],
-          "correctAnswer": 1,
-          "explanation": "Necessary to upgrade our security systems."
-        }
-      ]
-    },
-    {
-      "id": 7410,
-      "passage": "To: All Employees\nFrom: IT Support\nSubject: Scheduled Network Outage\n\nPlease be advised that there will be a scheduled network outage this Saturday from 10:00 PM to 2:00 AM on Sunday. During this time, you will not be able to access the company intranet or email servers. This outage is necessary to upgrade our security systems. If you have urgent work that requires network access, please plan accordingly. We apologize for the inconvenience.",
-      "questions": [
-        {
-          "id": 74100,
-          "question": "What is the purpose of the memo?",
-          "options": [
-            "To announce a new security system",
-            "To notify staff of network downtime",
-            "To schedule a maintenance meeting",
-            "To apologize for a recent error"
-          ],
-          "correctAnswer": 1,
-          "explanation": "The memo advises of a scheduled network outage."
-        },
-        {
-          "id": 74101,
-          "question": "When will the outage begin?",
-          "options": [
-            "10:00 AM Saturday",
-            "2:00 AM Sunday",
-            "10:00 PM Saturday",
-            "10:00 PM Sunday"
-          ],
-          "correctAnswer": 2,
-          "explanation": "The memo states Saturday from 10:00 PM."
-        },
-        {
-          "id": 74102,
-          "question": "What will employees be unable to do?",
-          "options": [
-            "Enter the building",
-            "Use their phones",
-            "Access company emails",
-            "Contact IT support"
-          ],
-          "correctAnswer": 2,
-          "explanation": "They cannot access the intranet or email servers."
-        },
-        {
-          "id": 74103,
-          "question": "Why is the outage happening?",
-          "options": [
-            "To install new computers",
-            "To upgrade security systems",
-            "To fix a broken server",
-            "To test the backup power"
-          ],
-          "correctAnswer": 1,
-          "explanation": "Necessary to upgrade our security systems."
-        }
-      ]
-    },
-    {
-      "id": 7411,
-      "passage": "Grand Opening Special!\n\nCome celebrate the opening of 'Bean & Leaf' café this Friday at 8:00 AM! The first 50 customers will receive a free travel mug and a complimentary pastry with any drink purchase. Enjoy live acoustic music from 6:00 PM to 8:00 PM. We offer a wide selection of organic coffees, artisan teas, and freshly baked goods. Located at 123 Main Street, next to the city library.",
-      "questions": [
-        {
-          "id": 74110,
-          "question": "What event is being advertised?",
-          "options": [
-            "A music concert",
-            "A library opening",
-            "A café grand opening",
-            "A baking class"
-          ],
-          "correctAnswer": 2,
-          "explanation": "Celebrate the opening of Bean & Leaf café."
-        },
-        {
-          "id": 74111,
-          "question": "What will the first 50 customers receive?",
-          "options": [
-            "Free coffee for a month",
-            "A travel mug and pastry",
-            "A discount on all drinks",
-            "A front-row seat for the music"
-          ],
-          "correctAnswer": 1,
-          "explanation": "Receive a free travel mug and a complimentary pastry."
-        },
-        {
-          "id": 74112,
-          "question": "When does the live music start?",
-          "options": [
-            "8:00 AM",
-            "6:00 PM",
-            "8:00 PM",
-            "Friday morning"
-          ],
-          "correctAnswer": 1,
-          "explanation": "Live acoustic music from 6:00 PM."
-        },
-        {
-          "id": 74113,
-          "question": "Where is the business located?",
-          "options": [
-            "Inside the city library",
-            "At 123 Main Street",
-            "Across from the park",
-            "Next to a music store"
-          ],
-          "correctAnswer": 1,
-          "explanation": "Located at 123 Main Street."
-        }
-      ]
-    },
-    {
-      "id": 7412,
-      "passage": "To: All Employees\nFrom: IT Support\nSubject: Scheduled Network Outage\n\nPlease be advised that there will be a scheduled network outage this Saturday from 10:00 PM to 2:00 AM on Sunday. During this time, you will not be able to access the company intranet or email servers. This outage is necessary to upgrade our security systems. If you have urgent work that requires network access, please plan accordingly. We apologize for the inconvenience.",
-      "questions": [
-        {
-          "id": 74120,
-          "question": "What is the purpose of the memo?",
-          "options": [
-            "To announce a new security system",
-            "To notify staff of network downtime",
-            "To schedule a maintenance meeting",
-            "To apologize for a recent error"
-          ],
-          "correctAnswer": 1,
-          "explanation": "The memo advises of a scheduled network outage."
-        },
-        {
-          "id": 74121,
-          "question": "When will the outage begin?",
-          "options": [
-            "10:00 AM Saturday",
-            "2:00 AM Sunday",
-            "10:00 PM Saturday",
-            "10:00 PM Sunday"
-          ],
-          "correctAnswer": 2,
-          "explanation": "The memo states Saturday from 10:00 PM."
-        },
-        {
-          "id": 74122,
-          "question": "What will employees be unable to do?",
-          "options": [
-            "Enter the building",
-            "Use their phones",
-            "Access company emails",
-            "Contact IT support"
-          ],
-          "correctAnswer": 2,
-          "explanation": "They cannot access the intranet or email servers."
-        },
-        {
-          "id": 74123,
-          "question": "Why is the outage happening?",
-          "options": [
-            "To install new computers",
-            "To upgrade security systems",
-            "To fix a broken server",
-            "To test the backup power"
-          ],
-          "correctAnswer": 1,
-          "explanation": "Necessary to upgrade our security systems."
-        }
-      ]
-    },
-    {
-      "id": 7413,
-      "passage": "To: All Employees\nFrom: IT Support\nSubject: Scheduled Network Outage\n\nPlease be advised that there will be a scheduled network outage this Saturday from 10:00 PM to 2:00 AM on Sunday. During this time, you will not be able to access the company intranet or email servers. This outage is necessary to upgrade our security systems. If you have urgent work that requires network access, please plan accordingly. We apologize for the inconvenience.",
-      "questions": [
-        {
-          "id": 74130,
-          "question": "What is the purpose of the memo?",
-          "options": [
-            "To announce a new security system",
-            "To notify staff of network downtime",
-            "To schedule a maintenance meeting",
-            "To apologize for a recent error"
-          ],
-          "correctAnswer": 1,
-          "explanation": "The memo advises of a scheduled network outage."
-        },
-        {
-          "id": 74131,
-          "question": "When will the outage begin?",
-          "options": [
-            "10:00 AM Saturday",
-            "2:00 AM Sunday",
-            "10:00 PM Saturday",
-            "10:00 PM Sunday"
-          ],
-          "correctAnswer": 2,
-          "explanation": "The memo states Saturday from 10:00 PM."
-        },
-        {
-          "id": 74132,
-          "question": "What will employees be unable to do?",
-          "options": [
-            "Enter the building",
-            "Use their phones",
-            "Access company emails",
-            "Contact IT support"
-          ],
-          "correctAnswer": 2,
-          "explanation": "They cannot access the intranet or email servers."
-        },
-        {
-          "id": 74133,
-          "question": "Why is the outage happening?",
-          "options": [
-            "To install new computers",
-            "To upgrade security systems",
-            "To fix a broken server",
-            "To test the backup power"
-          ],
-          "correctAnswer": 1,
-          "explanation": "Necessary to upgrade our security systems."
-        }
-      ]
-    },
-    {
-      "id": 7414,
-      "passage": "To: All Employees\nFrom: IT Support\nSubject: Scheduled Network Outage\n\nPlease be advised that there will be a scheduled network outage this Saturday from 10:00 PM to 2:00 AM on Sunday. During this time, you will not be able to access the company intranet or email servers. This outage is necessary to upgrade our security systems. If you have urgent work that requires network access, please plan accordingly. We apologize for the inconvenience.",
-      "questions": [
-        {
-          "id": 74140,
-          "question": "What is the purpose of the memo?",
-          "options": [
-            "To announce a new security system",
-            "To notify staff of network downtime",
-            "To schedule a maintenance meeting",
-            "To apologize for a recent error"
-          ],
-          "correctAnswer": 1,
-          "explanation": "The memo advises of a scheduled network outage."
-        },
-        {
-          "id": 74141,
-          "question": "When will the outage begin?",
-          "options": [
-            "10:00 AM Saturday",
-            "2:00 AM Sunday",
-            "10:00 PM Saturday",
-            "10:00 PM Sunday"
-          ],
-          "correctAnswer": 2,
-          "explanation": "The memo states Saturday from 10:00 PM."
         }
       ]
     }
