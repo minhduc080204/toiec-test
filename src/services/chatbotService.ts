@@ -1,5 +1,5 @@
 // Uses axios for future extensibility, but mocks the response for now
-import axios from 'axios';
+// import axios from 'axios';
 
 export const askChatbot = async (message: string): Promise<string> => {
   console.log(`Sending to n8n webhook (mock): ${message}`);
