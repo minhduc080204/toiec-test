@@ -11,7 +11,7 @@ export const QuestionCard = ({ question, showResult = false }: Props) => {
   const selectedAnswer = userAnswers[question.id];
 
   return (
-    <div className="mb-6 p-5 border border-gray-100 rounded-lg bg-gray-50">
+    <div id={`question-${question.id}`} className="mb-6 p-5 border border-gray-100 rounded-lg bg-gray-50">
       <p className="text-gray-800 font-medium mb-4">
         {question.id}. {question.question}
       </p>
@@ -20,7 +20,7 @@ export const QuestionCard = ({ question, showResult = false }: Props) => {
           const isSelected = selectedAnswer === idx;
           const isCorrect = question.correctAnswer === idx;
           
-          let btnClass = "w-full text-left px-4 py-3 rounded-md border transition ";
+          let btnClass = "w-full text-left px-4 py-3 rounded-md border transition cursor-pointer ";
           
           if (showResult) {
             if (isCorrect) {
