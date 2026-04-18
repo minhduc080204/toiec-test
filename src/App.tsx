@@ -1,6 +1,13 @@
+import { BrowserRouter, Routes, Route } from 'react-router';
 
 function App() {
-  return <h1 className='bg-red-500'>Hi</h1>
+  return (
+    <BrowserRouter>
+      <Routes>
+        <Route path="/" element={<div data-testid="home">Home</div>} />
+      </Routes>
+    </BrowserRouter>
+  );
 }
 
-export default App
+export default App;
