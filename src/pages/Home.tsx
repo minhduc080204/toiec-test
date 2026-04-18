@@ -9,10 +9,12 @@ export const Home = () => {
     return <Navigate to="/login" replace />;
   }
 
-  // List of exams (matching JSON files in src/data/exams/)
   const exams = [
-    { id: 'test1', title: 'Practice Test 1', desc: 'Standard TOEIC Reading parts.' },
-    { id: 'test2', title: 'Practice Test 2', desc: 'Advanced vocabulary focus.' }
+    { id: 'test1', title: 'Official Practice Test 1', desc: 'Standard TOEIC Reading parts (100 Qs).' },
+    { id: 'test2', title: 'Official Practice Test 2', desc: 'Standard TOEIC Reading parts (100 Qs).' },
+    { id: 'test3', title: 'Official Practice Test 3', desc: 'Standard TOEIC Reading parts (100 Qs).' },
+    { id: 'test4', title: 'Official Practice Test 4', desc: 'Standard TOEIC Reading parts (100 Qs).' },
+    { id: 'test5', title: 'Official Practice Test 5', desc: 'Standard TOEIC Reading parts (100 Qs).' }
   ];
 
   return (
@@ -36,7 +38,7 @@ export const Home = () => {
             </div>
             <Link
               to={`/exam/${exam.id}/setup`}
-              className="bg-gray-100 text-gray-700 px-4 py-2 rounded-md font-medium hover:bg-green-600 hover:text-white transition"
+              className="bg-gray-100 text-gray-700 px-4 py-2 rounded-md font-medium hover:bg-green-600 hover:text-white transition cursor-pointer"
             >
               Setup
             </Link>
