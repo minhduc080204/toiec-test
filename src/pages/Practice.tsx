@@ -14,15 +14,24 @@ export const Practice = () => {
   const [examData, setExamData] = useState<ExamData | null>(null);
 
   useEffect(() => {
-    if (!examId) return navigate('/');
+    if (!examId) {
+      navigate('/');
+      return;
+    }
     
-    import(`../data/exams/${examId}.json`)
-      .then((mod) => {
+    const loadData = async () => {
+      try {
+        const mod = await import(`../data/exams/${examId}.json`);
         const data = mod.default || mod;
         setExamData(data);
         startQuiz(examId, partsToPractice);
-      })
-      .catch(() => navigate('/'));
+      } catch (err) {
+        console.error('Failed to load exam data', err);
+        navigate('/');
+      }
+    };
+
+    loadData();
   }, [examId, navigate, startQuiz]);
 
   const calculateScore = () => {
