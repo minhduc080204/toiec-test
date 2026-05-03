@@ -18,6 +18,7 @@ export const FloatingChatbot = () => {
     setInput('');
     setMessages(prev => [...prev, { role: 'user', text: userMsg }]);
     setLoading(true);
+    scrollToBottom();
 
     try {
       const reply = await askChatbot(userMsg);
@@ -26,7 +27,17 @@ export const FloatingChatbot = () => {
       setMessages(prev => [...prev, { role: 'ai', text: 'Sorry, I am disconnected right now.' }]);
     } finally {
       setLoading(false);
+      scrollToBottom();
     }
+  };
+
+  const scrollToBottom = () => {
+    setTimeout(() => {
+      const container = document.querySelector('.overflow-y-auto');
+      if (container) {
+        container.scrollTop = container.scrollHeight;
+      }
+    }, 100);
   };
 
   return (
@@ -42,7 +53,7 @@ export const FloatingChatbot = () => {
             </button>
           </div>
           
-          <div className="flex-1 p-4 overflow-y-auto bg-gray-50 flex flex-col gap-3">
+          <div className="flex-1 p-4 overflow-y-auto bg-gray-50 flex flex-col gap-3 scroll-smooth">
             {messages.map((msg, i) => (
               <div key={i} className={`p-2 rounded-lg max-w-[80%] text-sm ${msg.role === 'user' ? 'bg-green-500 text-white self-end' : 'bg-gray-200 text-gray-800 self-start'}`}>
                 {msg.text}
